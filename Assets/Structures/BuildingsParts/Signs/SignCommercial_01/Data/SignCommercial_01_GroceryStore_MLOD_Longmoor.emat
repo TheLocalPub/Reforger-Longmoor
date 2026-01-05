@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.539 0.539 0.539 1
+ MetalnessScale 0
+ BCRMap "{E4E9CD055E15E8B9}textures/Londistexture.edds"
+}

@@ -1,0 +1,159 @@
+ForestGeneratorEntity {
+ ID "50E2842337714E85"
+ coords 0 0 0
+ Flags 1048579
+ m_bAvoidRoads 1
+ m_bAvoidTracks 1
+ m_iSeed 222
+ m_aClusters {
+  ForestGeneratorCircleCluster Pinus {
+   m_fMinCDENSHA 2
+   m_fMaxCDENSHA 5
+  }
+  ForestGeneratorCircleCluster PinusSmall {
+   m_fMinCDENSHA 2
+   m_fMaxCDENSHA 5
+  }
+  ForestGeneratorStripCluster Corylus {
+   m_fMinCDENSHA 2
+   m_fMaxCDENSHA 3
+  }
+  ForestGeneratorCircleCluster Corylus2 {
+   m_fMinCDENSHA 1
+  }
+  ForestGeneratorCircleCluster Betula {
+   m_fMaxCDENSHA 5
+  }
+  ForestGeneratorCircleCluster Betula2 {
+   m_fMaxCDENSHA 5
+  }
+  ForestGeneratorStripCluster Rosa {
+   m_aObjects {
+    SmallForestGeneratorClusterObject Rosa_canina_0 {
+     m_Prefab "{1F1980176A5052DC}PrefabLibrary/Vegetation/Bushes/b_rosa_canina_0s.et"
+     m_fBotDistance 0.25
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_iMaxCount 10
+     m_fMinRadius 0
+     m_fMaxRadius 5
+    }
+    SmallForestGeneratorClusterObject Rosa_canina1s {
+     m_fMaxScale 1.35
+     m_Prefab "{6813E89F9EF2BDAC}PrefabLibrary/Vegetation/Bushes/b_rosa_canina_1s.et"
+     m_fBotDistance 0.25
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_iMaxCount 10
+     m_fMinRadius 0
+     m_fMaxRadius 3
+    }
+    SmallForestGeneratorClusterObject Stone_01 {
+     m_fMinScale 0.5
+     m_fMaxScale 1
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_fBotDistance 1
+     m_iMinCount 0
+    }
+   }
+   m_fMinCDENSHA 2
+   m_fMaxCDENSHA 6
+   m_fMaxXOffset 1.5
+   m_fMaxYOffset 1.5
+   m_fFrequency 1.25
+   m_fAmplitude 3
+  }
+  ForestGeneratorStripCluster Rubus_Idaeus {
+   m_fMinCDENSHA 1
+  }
+  ForestGeneratorCircleCluster Rubus_Idaeus2 {
+   m_fMinCDENSHA 1
+  }
+  ForestGeneratorCircleCluster Stones {
+   m_aObjects {
+    SmallForestGeneratorClusterObject Stone_01 {
+     m_fMinScale 0.6
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_fBotDistance 0.65
+     m_iMaxCount 4
+     m_fMinRadius 0
+     m_fMaxRadius 3
+    }
+    SmallForestGeneratorClusterObject Stone_02 {
+     m_fMinScale 0.6
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_fBotDistance 0.65
+     m_iMinCount 0
+     m_iMaxCount 4
+     m_fMinRadius 0
+     m_fMaxRadius 5
+    }
+    SmallForestGeneratorClusterObject Stone_03 {
+     m_fMinScale 0.5
+     m_fMaxScale 1.2
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_fBotDistance 0.65
+     m_iMaxCount 3
+     m_fMinRadius 0
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Stone_small {
+     m_fMinScale 0.2
+     m_fMaxScale 0.6
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_iMinCount 0
+     m_iMaxCount 5
+     m_fMinRadius 2
+     m_fMaxRadius 6
+    }
+   }
+   m_fMinCDENSHA 0
+   m_fMaxCDENSHA 2
+   m_bGenerate 1
+  }
+  ForestGeneratorCircleCluster Stones2 {
+   m_aObjects {
+    SmallForestGeneratorClusterObject Stone_01 {
+     m_fMinScale 0.6
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_fBotDistance 0.65
+     m_iMaxCount 4
+     m_fMinRadius 0
+     m_fMaxRadius 6
+    }
+    SmallForestGeneratorClusterObject Stone_02 {
+     m_fMinScale 0.6
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_fBotDistance 0.65
+     m_iMinCount 0
+     m_iMaxCount 4
+     m_fMinRadius 0
+     m_fMaxRadius 10
+    }
+    SmallForestGeneratorClusterObject Stone_03 {
+     m_fMinScale 0.5
+     m_fMaxScale 1.2
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_fBotDistance 0.65
+     m_iMaxCount 3
+     m_fMinRadius 0
+     m_fMaxRadius 8
+    }
+    SmallForestGeneratorClusterObject Stone_small {
+     m_fMinScale 0.2
+     m_fMaxScale 0.6
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_iMinCount 0
+     m_iMaxCount 5
+     m_fMinRadius 2
+     m_fMaxRadius 12
+    }
+   }
+   m_fMinCDENSHA 0
+   m_fMaxCDENSHA 2
+   m_bGenerate 1
+  }
+ }
+}

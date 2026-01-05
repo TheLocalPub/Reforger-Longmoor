@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{BA18FC8C078A7A8B}Assets/Props/Fabric/Flags/Data/PlainBluforColour.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

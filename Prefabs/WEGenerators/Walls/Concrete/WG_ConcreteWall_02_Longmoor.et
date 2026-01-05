@@ -1,0 +1,40 @@
+WallGeneratorEntity : "{E00BA421CC399343}Prefabs/WEGenerators/Walls/Concrete/WG_ConcreteWall_01.et" {
+ ID "50A296D95C2A4E01"
+ Flags 0x100003 0
+ m_iSeed 27903
+ LastObject ""
+ m_aWallGroups {
+  WallLengthGroup "{50A296D592D8520F}" {
+   m_aWallPrefabs {
+    WallWeightPair "{50A296D58C2392DF}" {
+     m_sWallAsset "{8FDD90E021C6823C}Prefabs/Structures/walls/Concrete/Concrete_Wall_01.et"
+    }
+    WallWeightPair "{50A296D58C7B3192}" {
+     m_sWallAsset ""
+    }
+    WallWeightPair "{50A296D52F9A22E0}" {
+     m_sWallAsset ""
+    }
+    WallWeightPair "{50A296D52FCB815B}" {
+     m_sWallAsset ""
+    }
+    WallWeightPair "{50A296D521E6C029}" {
+     m_sWallAsset ""
+    }
+    WallWeightPair "{50A296D505AAD35F}" {
+     m_sWallAsset ""
+    }
+   }
+  }
+  WallLengthGroup "{50A296D5E6CC6685}" {
+   m_aWallPrefabs {
+    WallWeightPair "{50A296D5E01B757C}" {
+     m_sWallAsset ""
+    }
+   }
+  }
+ }
+ PrePadFirst 0
+ UseXAsForward 0
+ Rotate180 1
+}

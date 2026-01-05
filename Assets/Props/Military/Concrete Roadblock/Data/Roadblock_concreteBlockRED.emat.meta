@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E2388476B9114B0A}Assets/Props/Military/Concrete Roadblock/Data/Roadblock_concreteBlockRED.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,22 @@
+GameProject {
+ ID "Longmoor"
+ GUID "61BD1072371B5470"
+ TITLE "Longmoor"
+ Dependencies {
+  "58D0FB3206B6F859" "5DE612963E4B005A" "5D84C738432BFE6A" "61F2B96F0D3F27D4" "61F0D506562D9BC9"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

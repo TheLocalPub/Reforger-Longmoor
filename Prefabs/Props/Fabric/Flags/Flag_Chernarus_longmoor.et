@@ -1,0 +1,31 @@
+GenericEntity {
+ ID "62ACFE2C18173C93"
+ components {
+  SignalsManagerComponent "{62ACFE2C18173C41}" {
+  }
+  SoundComponent "{62ACFE2C18173C5E}" {
+   Filenames {
+    "{F5150056033CF272}Sounds/Props/Fabric/Flag/Props_Flag.acp"
+   }
+  }
+  MeshObject "{62ACFE2C18173C54}" {
+   Object "{94F7CE276B05E84B}Assets/Props/Fabric/Flags/Flag_1_2.xob"
+   Materials {
+    MaterialAssignClass "{62ACFE2C18173C28}" {
+     SourceMaterial "Flag_1_2"
+     AssignedMaterial "{92B2A59E6AAF7F9C}Assets/Props/Fabric/Flags/Data/Flag_British_longmoor.emat"
+    }
+   }
+  }
+  BaseItemAnimationComponent "{62ACFE2C18173C22}" {
+   AnimGraph "{040A7788BBAD6A87}Assets/Props/Fabric/Workspace/flag.agr"
+   AnimInstance "{C647A1991EFA303F}Assets/Props/Fabric/Workspace/item.asi"
+   StartNode "State Machine 1"
+   AlwaysActive 1
+   SimulateOnHeadless 0
+  }
+  Hierarchy "{62ACFE2C18173C26}" {
+  }
+ }
+ Flags 524291
+}

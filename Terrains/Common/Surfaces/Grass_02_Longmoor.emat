@@ -1,0 +1,4 @@
+TerrainMaterial : "{6D66BEE83536BCE9}Terrains/Common/Surfaces/Grass_02.emat" {
+ SatMapBlend 0.2
+ PlantMat "{2D7D805C5F97F9A1}Assets/Clutter/Procedural/cp_grass_02_Longmoor.emat"
+}

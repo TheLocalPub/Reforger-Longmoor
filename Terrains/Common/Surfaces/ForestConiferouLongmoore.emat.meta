@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D61A4311E27F80F5}Terrains/Common/Surfaces/ForestConiferouLongMoore.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

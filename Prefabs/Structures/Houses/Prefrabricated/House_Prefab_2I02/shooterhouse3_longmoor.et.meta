@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E35B62E637B466B2}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I02/shooterhouse3_longmoor.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,154 @@
+$grp GenericEntity {
+ Camp {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Camp"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Camp"
+    MainType "Name Village"
+    Priority 10
+   }
+  }
+  coords 838.675 113.269 841.687
+ }
+ Sandpit {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Sandpit"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Sandpit"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 1509.638 107.477 813.574
+ }
+ Estate {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Estate"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Estate"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 294.082 107.754 641.308
+ }
+ Backtrack {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Back tracks"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Back tracks"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 1044.367 104.178 192.923
+ }
+ Hardstanding {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Hard Standing"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Hard Standing"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 1152.855 104.172 870.059
+ }
+ Junction {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Junction"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Junction"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 230.762 105.772 309.058
+ }
+ Bridge {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Bridge"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Bridge"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 1142.926 107.206 620.736
+ }
+ Roundabout {
+  components {
+   SCR_EditableCommentComponent "{62148BFC003B4FD0}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{62148BFCB4B272F5}" {
+     Name "Roundabout"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{62148BFC7FF6F293}" {
+    DisplayName "Roundabout"
+    MainType "Name Settlement"
+    Priority 10
+   }
+  }
+  coords 1820.425 128.836 294.106
+ }
+ PlayingFields {
+  components {
+   SCR_MapDescriptorComponent "{66EED54E9C2A2B25}" {
+    MainType "Playing Field"
+   }
+  }
+  coords 657.829 104.215 721.526
+ }
+}

@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.539 0.539 0.539 1
+ MetalnessScale 0
+ BCRMap "{2B4A8331EDE5C52B}textures/queenhead.edds"
+}

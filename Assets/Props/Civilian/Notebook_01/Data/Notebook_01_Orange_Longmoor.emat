@@ -1,0 +1,5 @@
+MatPBRBasic {
+ RoughnessScale 1.5
+ MetalnessScale 0
+ BCRMap "{B5850FB80CD3E3D4}textures/booktexture.edds"
+}

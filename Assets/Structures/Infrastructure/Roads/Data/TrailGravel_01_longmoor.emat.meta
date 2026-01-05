@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A2FCB0CF6F23873B}Assets/Structures/Infrastructure/Roads/Data/TrailGravel_01_longmoor.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

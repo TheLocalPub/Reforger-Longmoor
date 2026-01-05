@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6EA157CB491F997C}Prefabs/Structures/Commercial/Pubs/PubVillage_E_1L01/Queenheadpub.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

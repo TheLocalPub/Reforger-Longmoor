@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.745 0.745 0.745 1
+ BCRMap "{EDCDABDC5DB8F98B}textures/militarysign.edds"
+ NMOMap "{1305B8BB10D15538}Assets/Structures/Signs/Large/Data/SignLarge_01_MLOD_NMO.edds"
+}

@@ -1,0 +1,9 @@
+GenericEntity : "{15C7AF5C1A5BE3FF}Prefabs/Structures/BuildingParts/Signs/Commercial/SignCommercial_02_Base.et" {
+ ID "5111E74D4E7A8DB6"
+ components {
+  RigidBody "{5111E74C06F5C1E1}" {
+   ResponseIndex "HugeDestructible"
+  }
+ }
+ coords 10.34 -104.795 174.152
+}

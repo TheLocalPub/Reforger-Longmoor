@@ -1,0 +1,5 @@
+SCR_DestructibleBuildingEntity : "{678574044F58E1CA}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01/House_Mountain_E_1I01_short.et" {
+ ID "F0DBA538AC2A0552"
+ coords 835.664 0.116 699.594
+ angleY 128.244
+}

@@ -1,0 +1,14 @@
+MatCommon {
+ Color 0.175 0.175 0.175 1
+ CastShadow 0
+ ReceiveShadow 0
+ OccludeRain 0
+ OccludeWetness 0
+ DisableFog 1
+ NoDecals 1
+ BlendMode None
+ AlbedoMap "{47CCF908BA2CDB21}Common/Textures/OutsideTerrainCore/OOBGrass.edds"
+ DisablePrexposure 1
+ LightStart 2
+ LightEnd 2
+}
