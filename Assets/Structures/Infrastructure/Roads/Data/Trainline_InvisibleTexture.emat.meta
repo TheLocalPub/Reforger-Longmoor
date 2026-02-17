@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{03BCF02E37EB3928}Assets/Structures/Infrastructure/Roads/Data/Trainline_InvisibleTexture.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

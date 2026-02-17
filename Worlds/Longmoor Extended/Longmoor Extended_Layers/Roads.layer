@@ -18383,6 +18383,7 @@ $grp SplineShapeEntity {
     Position 109.477 0.197 -81.348
    }
   }
+  LineColor 1 0.9584 0.9688 1
   {
    RoadGeneratorEntity : "{C44B66AAAF6455DD}Prefabs/WEGenerators/Roads/Asphalt/RG_RailLine_Invis.et" {
     coords 0 0 0
@@ -18402,9 +18403,10 @@ $grp SplineShapeEntity {
       IsClosedSpline 0
       Type "Path Tourist"
       Width 4.1
-      Material ""
+      Material "{03BCF02E37EB3928}Assets/Structures/Infrastructure/Roads/Data/Trainline_InvisibleTexture.emat"
       BeginningPiece none
       EndPiece none
+      RandomSeed 9945
      }
     }
    }
