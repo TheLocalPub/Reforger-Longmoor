@@ -21137,8 +21137,8 @@ $grp SCR_DestructibleBuildingEntity : "{575E507D9F677F15}Prefabs/Structures/Wall
   scale 0.24
  }
  {
-  coords 810.625 103.797 699.846
-  angles 0 128.055 0
+  coords 810.625 104.155 699.846
+  angles 0 -51.945 -0.916
   scale 0.24
  }
  {
@@ -21148,11 +21148,11 @@ $grp SCR_DestructibleBuildingEntity : "{575E507D9F677F15}Prefabs/Structures/Wall
  }
  {
   coords 814.683 103.796 705.754
-  angles 0 -141.783 0
+  angles 0 38.217 0
   scale 0.24
  }
  {
-  coords 812.967 103.797 702.838
+  coords 812.967 104.003 702.838
   angles 0 128.055 0
   scale 0.24
  }
@@ -21168,7 +21168,7 @@ $grp SCR_DestructibleBuildingEntity : "{575E507D9F677F15}Prefabs/Structures/Wall
  }
  {
   coords 810.164 103.778 709.312
-  angles 0 -141.783 0
+  angles 0 38.217 0
   scale 0.24
  }
  {
@@ -21193,7 +21193,7 @@ $grp SCR_DestructibleBuildingEntity : "{575E507D9F677F15}Prefabs/Structures/Wall
  }
  {
   coords 804.152 103.778 714.046
-  angles 0 -141.783 0
+  angles 0 38.217 0
   scale 0.24
  }
  {
@@ -21202,12 +21202,12 @@ $grp SCR_DestructibleBuildingEntity : "{575E507D9F677F15}Prefabs/Structures/Wall
   scale 0.24
  }
  {
-  coords 811.788 103.797 701.333
-  angles 0 128.055 0
+  coords 811.788 104.178 701.333
+  angles 0 128.055 0.358
   scale 0.24
  }
  {
-  coords 814.15 103.797 704.35
+  coords 814.142 103.797 704.356
   angles 0 128.055 0
   scale 0.24
  }
