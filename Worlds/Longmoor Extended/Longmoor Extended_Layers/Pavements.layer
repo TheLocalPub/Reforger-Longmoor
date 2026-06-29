@@ -1610,6 +1610,177 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 796.32 101.414 832.281
+  Points {
+   ShapePoint "{69BAB98FD1173DFC}" {
+    Position 1.246 -0.008 2.093
+   }
+   ShapePoint "{69BAB98C2A8C5B76}" {
+    Position -0.011 -0.003 -0.123
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -0.083 -0.727 -0.611
+      OutTangent -0.017 -0.148 -0.125
+     }
+    }
+   }
+   ShapePoint "{69BAB98C2BA4928C}" {
+    Position 0.307 0.008 -1.276
+   }
+   ShapePoint "{69BAB98C288833D1}" {
+    Position 1.485 0.023 -5.052
+   }
+   ShapePoint "{69BAB98C2E2F8752}" {
+    Position 3.791 0.057 -10.316
+   }
+   ShapePoint "{69BAB98C2DD7FB6F}" {
+    Position 6.714 0.243 -16.987
+   }
+   ShapePoint "{69BAB98C13EA5C62}" {
+    Position 7.156 0.258 -17.8
+   }
+   ShapePoint "{69BAB98C13789149}" {
+    Position 7.479 0.279 -18.615
+   }
+   ShapePoint "{69BAB98C10CE9F52}" {
+    Position 8.548 0.318 -19.38
+   }
+   ShapePoint "{69BAB98C1148095F}" {
+    Position 9.356 0.354 -20.082
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{59B0C519BF4FCF12}Prefabs/WEGenerators/Pavements/Concrete/WG_ConcreteKerb_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 17058
+    {
+     $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
+      {
+       coords 1.246 -0.008 2.093
+       angles 0 120.499 0
+      }
+      {
+       coords 0.221 0.001 0.353
+       angles 0 84.461 0
+      }
+      {
+       coords 0.416 0.014 -1.658
+       angles 0 73.656 0
+      }
+      {
+       coords 0.985 0.023 -3.597
+       angles 0 70.243 0
+      }
+      {
+       coords 1.667 0.023 -5.498
+       angles 0 66.806 0
+      }
+      {
+       coords 2.463 0.023 -7.355
+       angles 0 65.869 0
+      }
+      {
+       coords 3.289 0.038 -9.198
+       angles 0 66.034 0
+      }
+      {
+       coords 4.11 0.073 -11.044
+       angles 0 66.335 0
+      }
+      {
+       coords 4.92 0.115 -12.895
+       angles 0 66.335 0
+      }
+      {
+       coords 5.731 0.165 -14.745
+       angles 0 66.335 0
+      }
+      {
+       coords 6.542 0.238 -16.595
+       angles 0 65.945 0
+      }
+      {
+       coords 7.366 0.276 -18.44
+       angles 0 39.126 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 779.744 101.754 780.27
+  Points {
+   ShapePoint "{69BAB98C764D378D}" {
+    Position 0.078 0.003 0.201
+   }
+   ShapePoint "{69BAB98C764D5181}" {
+    Position -2.086 -0.007 -0.811
+   }
+   ShapePoint "{69BAB98C6E639C30}" {
+    Position -3.269 0.001 -1.106
+   }
+   ShapePoint "{69BAB98C6FE0DA16}" {
+    Position -4.653 -0.012 -1.516
+   }
+   ShapePoint "{69BAB98C6F6B252F}" {
+    Position -6.472 -0.013 -1.537
+   }
+   ShapePoint "{69BAB98C6D1F13BB}" {
+    Position -10.156 0.071 -1.751
+   }
+   ShapePoint "{69BAB98C627CE1CC}" {
+    Position -15.967 0.12 -2.203
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{59B0C519BF4FCF12}Prefabs/WEGenerators/Pavements/Concrete/WG_ConcreteKerb_01.et" {
+    Flags 0x100003 0
+    coords 0 0 0
+    m_iSeed 29342
+    {
+     $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
+      {
+       coords 0.078 0.003 0.201
+       angles 0 154.66 0
+      }
+      {
+       coords -1.748 -0.01 -0.663
+       angles 0 163.214 0
+      }
+      {
+       coords -3.682 -0.003 -1.247
+       angles 0 171.89 0
+      }
+      {
+       coords -5.682 -0.012 -1.532
+       angles 0 178.113 0
+      }
+      {
+       coords -7.701 -0.014 -1.598
+       angles 0 176.478 0
+      }
+      {
+       coords -9.717 0.057 -1.722
+       angles 0 175.718 0
+      }
+      {
+       coords -11.732 0.145 -1.873
+       angles 0 175.546 0
+      }
+      {
+       coords -12.929 0.148 -1.966
+       angles 0 175.546 0
+      }
+     }
+    }
+   }
+  }
+ }
 }
 $grp StaticModelEntity : "{092D829CA26D983C}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_4m_30.et" {
  {
@@ -1703,6 +1874,9 @@ $grp StaticModelEntity : "{199181163F247657}Prefabs/Structures/Infrastructure/Pa
 StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
  coords 868.251 -0.041 719.669
  angles 0 -230.046 0
+}
+StaticModelEntity : "{1FE98F22E001FD19}Prefabs/Vegetation/Plant/CurbsideWeeds_03.et" {
+ coords 770.733 0.002 779.427
 }
 $grp StaticModelEntity : "{3C59CD881FC6E4E1}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_Entry_4m.et" {
  {
@@ -1864,6 +2038,10 @@ $grp SCR_DestructibleEntity : "{A5C7908C71CFD97C}Prefabs/Structures/Walls/Concre
 StaticModelEntity : "{B31AA9B374FB63C9}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_90.et" {
  coords 825.151 0.036 666.807
  angles 0 38.085 0
+}
+StaticModelEntity : "{C359A5EEE6D0F558}Prefabs/Vegetation/Plant/CurbsideWeeds_01_8m.et" {
+ coords 771.767 0.015 778.765
+ angles 0 -4.799 0
 }
 $grp StaticModelEntity : "{CF757F481B81CA5B}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_4m_E.et" {
  {
@@ -2304,4 +2482,8 @@ $grp StaticModelEntity : "{F80AA4A51B6CDD31}Prefabs/Structures/Infrastructure/Pa
   angles 0 37.631 -0.03
   placement slopelandcontact
  }
+}
+StaticModelEntity : "{FA75C3DBECE46A72}Prefabs/Vegetation/Plant/CurbsideWeeds_02.et" {
+ coords 770.781 0.016 778.266
+ angles 0 -9.37 0
 }

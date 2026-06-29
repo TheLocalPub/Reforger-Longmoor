@@ -188,6 +188,12 @@ $grp DecalEntity : "{4932978A48FA10B0}Prefabs/Decals/Dirt/Decal_Dirt_Patch_05.et
   angles -89.956 180 149.016
   scale 2
  }
+ {
+  coords 867.221 -0.04 700.955
+  angles -90 180 133.434
+  scale 2
+  TerrainOnly 0
+ }
 }
 $grp DecalEntity : "{4AD6EB80A8B1FA3A}Prefabs/Decals/Dirt/Decal_Dirt_Patch_03.et" {
  {
@@ -1054,6 +1060,10 @@ $grp DecalEntity : "{77C91FAB81C2F906}Prefabs/Decals/Asphalt/Decal_Asphalt_Crack
   angles -90 -180 -180
   scale 2.43
  }
+ {
+  coords 782 -0.05 789.71
+  angles -90 -180 -180
+ }
 }
 $grp GenericEntity : "{7B6EDBC3E88ECD97}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/CompositionDecal_Dirt_Tracks_03.et" {
  {
@@ -1187,6 +1197,11 @@ $grp DecalEntity : "{925553528D276E6D}Prefabs/Decals/Asphalt/Decal_Asphalt_Crack
  }
  {
   coords 823.72 0.019 705.08
+  angles -90 -180 -180
+  scale 3
+ }
+ {
+  coords 769.406 -0.022 784.074
   angles -90 -180 -180
   scale 3
  }
@@ -1404,6 +1419,75 @@ $grp DecalEntity : "{A8F7CB83AA7FE99B}Prefabs/Decals/Dirt/Decal_Dirt_Footprints_
   coords 625.791 0.025 726.876
   angles -90 180 -139.002
  }
+ {
+  coords 817.04 0.218 654.334
+  angles -82.646 -135.581 83.116
+  TerrainOnly 0
+ }
+ {
+  coords 767.992 0.992 684.222
+  angles -90 -59.733 -180
+  TerrainOnly 0
+ }
+ {
+  coords 767.192 0.66 682.908
+  angles -90 -50.694 0
+  TerrainOnly 0
+ }
+ {
+  coords 817.884 0.16 655.559
+  angles -82.646 -135.581 83.116
+  TerrainOnly 0
+ }
+ {
+  coords 772.88 0.137 690.372
+  angles -90 -43.76 0
+  TerrainOnly 0
+ }
+ {
+  coords 765.301 -0.11 679.12
+  angles -90 -61.918 -180
+ }
+ {
+  coords 815.296 0.448 651.684
+  angles -82.646 44.446 83.116
+  TerrainOnly 0
+ }
+ {
+  coords 768.92 0.956 685.53
+  angles -90 -59.733 -180
+  TerrainOnly 0
+ }
+ {
+  coords 814.402 0.457 650.421
+  angles -82.646 -135.109 83.116
+  TerrainOnly 0
+ }
+ {
+  coords 770.894 0.758 688.294
+  angles -90 125.521 -180
+  TerrainOnly 0
+ }
+ {
+  coords 769.918 1.922 686.909
+  angles -90 125.521 -180
+  TerrainOnly 0
+ }
+ {
+  coords 816.164 0.453 653.057
+  angles -82.646 44.446 83.116
+  TerrainOnly 0
+ }
+ {
+  coords 812.454 0.302 647.871
+  angles -82.646 -135.109 83.116
+  TerrainOnly 0
+ }
+ {
+  coords 813.423 0.265 649.141
+  angles -82.646 44.891 83.116
+  TerrainOnly 0
+ }
 }
 $grp DecalEntity : "{ACAEDB73441F87DB}Prefabs/Decals/Dirt/Decal_Dirt_Patch_04.et" {
  {
@@ -1437,6 +1521,7 @@ $grp DecalEntity : "{AF4AA779A4546D51}Prefabs/Decals/Dirt/Decal_Dirt_Patch_02.et
   coords 813.711 0 681.252
   angles -90 -180 -180
   scale 5
+  TerrainOnly 0
  }
 }
 $grp DecalEntity : "{AF61766AF84BE75A}Prefabs/Decals/Asphalt/Decal_Asphalt_Cracks_04.et" {
@@ -1451,6 +1536,10 @@ $grp DecalEntity : "{AF61766AF84BE75A}Prefabs/Decals/Asphalt/Decal_Asphalt_Crack
  {
   coords 898.453 0.001 784.851
   angles -90 180 128.779
+ }
+ {
+  coords 771.242 0 778.883
+  angles -90 0 -1.902
  }
 }
 GenericEntity : "{B3E8911E396DE447}Prefabs/Props/Services/Fire/FireExtinguisherBox_01_Shovel.et" {
@@ -1494,146 +1583,175 @@ $grp DecalEntity : "{BAA55688399B3545}Prefabs/Decals/Dirt/Decal_Dirt_Patch_01.et
   coords 729.194 -0.007 699.644
   angles -90 0 0
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 823.245 -0.036 668.576
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 827.547 0 680.136
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 844.201 0 699.17
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 852.418 0 711.755
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 857.347 0 718.209
   angles -90 0 110.564
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 864.668 0 725.209
   angles -90 0 -77.164
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 872.912 0 735.115
   angles -90 0 -32.301
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 836.193 0 768.551
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 824.703 0 752.373
   angles -89.972 0 -65.734
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 812.675 0 737.315
   angles -90 0 72.524
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 822.69 0 788.599
   angles -90 0 -50.409
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 807.63 -0.016 771.093
   angles -90 0 -40.566
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 793.696 0 752.277
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 784.238 0 761.909
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 799.342 0 782.422
   angles -90 0 53.852
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 814.279 0 800.61
   angles -90 0 -9.607
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 776.488 -0.003 709.373
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 802.609 -0.011 684.061
   angles -90 -180 -180
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 791.994 0.002 698.118
   angles -90 0 134.41
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 819.682 -0.002 686.207
   angles -90 0 -85.459
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 830.242 0 701.208
   angles -90 180 174.839
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 862.134 -0.007 740.597
   angles -90 0 -85.459
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 844.576 0 757.566
   angles -90 0 -85.459
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 832.82 0 742.036
   angles -90 180 28.824
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 821.009 0 726.602
   angles -90 180 20.249
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 802.502 0 705.893
   angles -90 180 0.747
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 787.156 0 717.601
   angles -90 180 -19.946
   scale 2.5
+  TerrainOnly 0
  }
  {
   coords 786.315 0 735.361
   angles -90 180 94.541
   scale 2.5
+  TerrainOnly 0
  }
 }
 GenericEntity : "{BBA4B6B98BB002A4}Prefabs/Vegetation/Tree/Debris/T_trunk_debris_05.et" {
@@ -3124,5 +3242,58 @@ $grp DecalEntity : "{FC56FA6166DEE7B7}Prefabs/Decals/Dirt/Decal_Dirt_Footprints_
   coords 627.342 0.016 727.139
   angles -89.972 -179.128 -163.195
   scale 1.5
+ }
+ {
+  coords 817.797 0.043 654.704
+  angles -90 -134.847 0
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 771.667 0.592 689.355
+  angles -90 -39.265 0
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 766.374 0.733 681.785
+  angles -90 160.739 0
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 816.924 0.039 655.43
+  angles -90 139.617 0
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 807.127 0.013 640.688
+  angles -90 -180 -71.792
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 771.807 0.186 690.712
+  angles -90 165.637 -180
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 764.764 0.023 678.075
+  angles -90 -57.155 0
+  scale 1.5
+ }
+ {
+  coords 766.238 0.231 680.253
+  angles -90 -86.21 0
+  scale 1.5
+  TerrainOnly 0
+ }
+ {
+  coords 765.191 0.012 681.02
+  angles -90 -180 -180
+  scale 1.5
+  TerrainOnly 0
  }
 }
