@@ -69,14 +69,14 @@ Tree : "{3042375F6C45AF68}Prefabs/Vegetation/Plant/p_urtica_dioica_0s.et" {
 }
 $grp StaticModelEntity : "{32300543F3DBA4C9}PrefabLibrary/DefaultLibrary/Infrastructure/Stairs/ConcreteStairs_02_SideSquareWide.et" {
  {
-  coords 942.05 105.83 910.01
+  coords 942.074 105.83 909.99
   angles 0 0.219 90
-  scale 1.2
+  scale 1.205
  }
  {
-  coords 946.386 105.83 909.992
+  coords 946.41 105.83 909.972
   angles 0 0.219 90
-  scale 1.2
+  scale 1.205
  }
 }
 GenericEntity : "{3B0DB043F1B159A2}Prefabs/Props/Remains/SkeletonRemains/SkeletonRemains_02_V2.et" {
@@ -4426,12 +4426,12 @@ $grp GenericEntity : "{BCCE1BF4AD886040}Prefabs/Structures/BuildingsParts/Entry/
 }
 $grp SCR_DestructibleBuildingEntity : "{CB6ABAED9BC65DE3}Prefabs/Infrastructure/Bridges/Highway Bridge Pillar.et" {
  {
-  coords 946.42 105.714 908.133
+  coords 946.457 105.714 908.133
   angles 0 0.52 0
   scale 0.2
  }
  {
-  coords 946.439 105.714 911.758
+  coords 946.476 105.714 911.758
   angles 0 -0.249 0
   scale 0.2
  }
@@ -5465,7 +5465,7 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   scale 1.6
  }
  {
-  coords 941.147 102.999 908.177
+  coords 941.147 102.999 908.129
   angles -0.503 -179.45 0.089
   scale 1.6
  }

@@ -587,9 +587,15 @@ $grp Tree : "{425761285F36BF16}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_b
   scale 1.115
  }
 }
-Tree : "{425DD922954FA7E5}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_wall_01.et" {
- coords 785.33 1.185 740.723
- angles 0 -53.161 0
+$grp Tree : "{425DD922954FA7E5}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_wall_01.et" {
+ {
+  coords 785.33 1.185 740.723
+  angles 0 -53.161 0
+ }
+ {
+  coords 801.852 1.139 797.655
+  angles 0 39.072 0
+ }
 }
 $grp Tree : "{4FE3B631FA363978}Prefabs/Vegetation/Vegetables/CapsicumCrop_01.et" {
  {
@@ -1138,11 +1144,6 @@ $grp Tree : "{9C6CE0F73E3AED80}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_p
   coords 993.73 -0.031 892.409
   angles 0 -145.222 0
   scale 0.458
- }
- {
-  coords 928.269 -0.036 838.813
-  angles 0 -98.785 0
-  scale 1.167
  }
  {
   coords 882.269 0 1014.411
