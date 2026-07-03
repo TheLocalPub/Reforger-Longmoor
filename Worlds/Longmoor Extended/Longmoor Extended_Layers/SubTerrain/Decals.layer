@@ -1,8 +1,186 @@
+GenericEntity : "{03EA0C4E53519E85}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num5.et" {
+ coords 805.663 100.065 800.328
+ angles 89.61 134.507 -174.083
+ scale 0.1
+}
+GenericEntity : "{15D672DE054C03C5}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num8.et" {
+ coords 820.566 103.05 707.821
+ angles -89.749 -51.239 -0.652
+ scale 0.1
+}
 GenericEntity : "{3A11F5367AB523AB}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Vole_V1.et" {
  coords 790.595 100.983 678.224
  angles 0.475 176.057 0
 }
+GenericEntity : "{3EDE2976263D17B2}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num2.et" {
+ coords 847.027 98.415 905.432
+ angles 89.559 36.82 115.579
+ scale 0.1
+}
+$grp GenericEntity : "{528A1D969AF9989C}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num1.et" {
+ {
+  coords 905.504 98.491 908.425
+  angles 89.298 9.434 87.762
+  scale 0.1
+ }
+ {
+  coords 818.703 101.275 676.443
+  angles 88.807 -24.441 173.292
+  scale 0.1
+ }
+}
+$grp GenericEntity : "{5ACA2B2C63CCD7C3}Prefabs/Structures/BuildingParts/Misc/VentCover_01_Circular_Rusty.et" {
+ {
+  coords 916.906 103.543 828.477
+  angles 0 -73.558 0
+ }
+ {
+  coords 840.628 100.72 823.947
+  angles 0 -58.698 0
+ }
+}
+GenericEntity : "{6FBE38AEEF9511AB}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num6.et" {
+ coords 852.622 102.883 756.23
+ angles 89.454 114.101 -0.384
+ scale 0.1
+}
+GenericEntity : "{8A227457E37086C0}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num7.et" {
+ coords 778.789 100.283 760.254
+ angles 88.348 111.704 -2.868
+ scale 0.1
+}
+GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/Ladder_ApartmentBuilding_3I01/Ladder_ApartmentBuilding_3I01_350_B.et" {
+ components {
+  ActionsManagerComponent "{5916A63C9331DAB0}" {
+   ActionContexts {
+    UserActionContext "{5916A63C9D2ABA4A}" {
+     Position PointInfo "{5916A63C9B51DDAE}" {
+     }
+     Radius 1
+     Height 1
+    }
+   }
+  }
+ }
+ Flags 0 0x80000
+ coords 891.48 104.642 870.333
+ angles 0 65.302 0
+ {
+  $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesealer_Longmoor.et" {
+   {
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      ResponseIndex "Normal"
+      ModelGeometry 0
+     }
+    }
+    coords 3.836 -2.104 1.084
+    angles 81.124 5.417 -87.377
+    scale 4.2
+   }
+   {
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      ResponseIndex "Normal"
+      ModelGeometry 0
+     }
+    }
+    coords -3.681 -2.19 1.161
+    angles 80.786 -174.818 -87.615
+   }
+  }
+  GenericEntity : "{5DBB89C4C312D23E}Prefabs/Structures/BuildingParts/Doors/HatchSet_Lightbeacon_Camouflage.et" {
+   coords -0.015 -0.022 0.503
+   angles 90 88.973 0
+  }
+  $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Large.et" {
+   {
+    components {
+     SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+      Enabled 0
+     }
+    }
+    coords 3.971 -3.44 1.06
+    angles 0 -177.15 0
+    scale 1.25
+   }
+   {
+    components {
+     SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+      Enabled 0
+     }
+    }
+    coords -3.843 -3.44 1.184
+    angles 0 2.85 0
+    scale 1.25
+   }
+  }
+  $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et" {
+   {
+    Flags 0 0x80000
+    coords 2.543 -0.275 1.173
+    angles 89.5 -160.636 -69.61
+   }
+   {
+    coords 1.953 -1.92 2.697
+    angles 0 179.292 0.511
+   }
+   {
+    coords -2.017 -1.951 2.649
+    angles 0 179.292 0.511
+   }
+   {
+    Flags 0 0x80000
+    coords -0.015 -0.282 3.052
+    angles 89.363 -137.575 43.45
+   }
+   {
+    Flags 0 0x80000
+    coords -2.602 -0.359 1.081
+    angles 88.246 -117.746 153.292
+   }
+   {
+    coords -1.961 -1.95 -0.445
+    angles 0 179.9 0.511
+   }
+   {
+    coords 2.008 -1.92 -0.439
+    angles 0 179.9 0.511
+   }
+   {
+    Flags 0 0x80000
+    coords 2.008 -3.543 1.076
+    angles 89.951 25.007 -155.578
+   }
+   {
+    Flags 0 0x80000
+    coords -1.952 -3.54 1.116
+    angles 89.951 25.007 -155.578
+   }
+  }
+ }
+}
 GenericEntity : "{A46242F569F68E38}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Anarchy_V1.et" {
  coords 788.965 100.914 678
  angles 1.383 170.856 0.013
+}
+GenericEntity : "{B716516F961C0FF7}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num0.et" {
+ coords 818.453 101.349 676.385
+ angles -87.043 170.538 173.273
+ scale 0.08
+}
+GenericEntity : "{DB42658F2AD880D9}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num3.et" {
+ coords 916.89 102.783 828.459
+ angles 87.318 15.525 -90.26
+ scale 0.1
+}
+GenericEntity : "{E67640B75FB409EE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num4.et" {
+ coords 840.617 99.994 823.942
+ angles 89.518 125.012 3.228
+ scale 0.1
+}
+GenericEntity : "{F04A3E2709A994AE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num9.et" {
+ coords 770.643 101.186 716.97
+ angles 89.883 91.309 1.582
+ scale 0.1
 }

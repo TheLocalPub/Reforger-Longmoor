@@ -1,3 +1,418 @@
+$grp PolylineShapeEntity {
+ {
+  coords 942.697 104.893 817.553
+  Points {
+   ShapePoint "{69C69916B3D7D221}" {
+    Position 0.286 0 0.102
+   }
+   ShapePoint "{69C69916B3D541CA}" {
+    Position -3.838 -0.04 9.581
+   }
+   ShapePoint "{69C69916A266F5B0}" {
+    Position -5.055 0 12.009
+   }
+   ShapePoint "{69C69916A303405C}" {
+    Position -7.832 0 13.696
+   }
+   ShapePoint "{69C69916A1C6F2D4}" {
+    Position -15.938 0 18.843
+   }
+   ShapePoint "{69C69916A67D23FD}" {
+    Position -14.582 0 21.806
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{59B0C519BF4FCF12}Prefabs/WEGenerators/Pavements/Concrete/WG_ConcreteKerb_01.et" {
+    Flags 0x100003 0
+    m_iSeed 4304
+    {
+     $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
+      {
+       coords 0.286 0.003 0.102
+       angles 0 -113.515 0
+      }
+      {
+       coords -0.519 -0.015 1.955
+       angles 0 -113.515 0
+      }
+      {
+       coords -1.325 0.016 3.807
+       angles 0 -113.515 0
+      }
+      {
+       coords -2.131 0.084 5.659
+       angles 0 -113.515 0
+      }
+      {
+       coords -2.937 0.116 7.512
+       angles 0 -113.515 0
+      }
+      {
+       coords -3.743 0.12 9.364
+       angles 0 -116.37 0
+      }
+      {
+       coords -4.64 0.097 11.173
+       angles 0 -141.674 0
+      }
+      {
+       coords -6.225 0.076 12.426
+       angles 0 -141.674 0
+      }
+      {
+       coords -7.81 0.113 13.679
+       angles 0 -147.569 0
+      }
+      {
+       coords -9.515 0.148 14.762
+       angles 0 -147.569 0
+      }
+      {
+       coords -11.22 0.166 15.846
+       angles 0 -147.569 0
+      }
+      {
+       coords -12.925 0.154 16.929
+       angles 0 -147.569 0
+      }
+      {
+       coords -14.63 0.121 18.012
+       angles 0 -147.569 0
+      }
+      {
+       coords -16.335 -0.102 19.095
+       angles 0 -57.114 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 943.337 104.673 858.911
+  Points {
+   ShapePoint "{69C69916CF4DFE1E}" {
+    Position 0.172 0.001 -0.887
+   }
+   ShapePoint "{69C69916CF4AC67F}" {
+    Position 1.807 -0.015 1.868
+   }
+   ShapePoint "{69C69916C35ADFAD}" {
+    Position 3.542 0 3.969
+   }
+   ShapePoint "{69C69916C0F6D1DF}" {
+    Position 5.497 0 5.739
+   }
+   ShapePoint "{69C69916C07AD26B}" {
+    Position 8.385 0 6.149
+   }
+   ShapePoint "{69C69916C10F16D3}" {
+    Position 31.336 0 5.499
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{59B0C519BF4FCF12}Prefabs/WEGenerators/Pavements/Concrete/WG_ConcreteKerb_01.et" {
+    Flags 0x100003 0
+    m_iSeed 4957
+    {
+     $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
+      {
+       coords 0.172 0.014 -0.887
+       angles 0 -59.318 0
+      }
+      {
+       coords 1.203 -0.012 0.851
+       angles 0 -53.125 0
+      }
+      {
+       coords 2.415 -0.033 2.466
+       angles 0 -53.125 0
+      }
+      {
+       coords 3.627 -0.11 4.082
+       angles 0 -41.539 0
+      }
+      {
+       coords 5.138 -0.126 5.421
+       angles 0 -12.644 0
+      }
+      {
+       coords 7.109 -0.142 5.863
+       angles 0 0.861 0
+      }
+      {
+       coords 9.129 -0.135 5.833
+       angles 0 0.861 0
+      }
+      {
+       coords 11.149 -0.13 5.803
+       angles 0 0.861 0
+      }
+      {
+       coords 13.169 -0.142 5.772
+       angles 0 0.861 0
+      }
+      {
+       coords 15.189 -0.15 5.742
+       angles 0 0.861 0
+      }
+      {
+       coords 17.209 -0.192 5.711
+       angles 0 0.861 0
+      }
+      {
+       coords 19.229 -0.196 5.681
+       angles 0 0.861 0
+      }
+      {
+       coords 21.249 -0.173 5.651
+       angles 0 0.861 0
+      }
+      {
+       coords 23.269 -0.15 5.62
+       angles 0 0.861 0
+      }
+      {
+       coords 25.289 -0.122 5.59
+       angles 0 0.861 0
+      }
+      {
+       coords 27.309 -0.087 5.56
+       angles 0 0.861 0
+      }
+      {
+       coords 29.329 -0.1 5.529
+       angles 0 0.861 0
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 949.905 104.975 828.475
+  Points {
+   ShapePoint "{69C6991712B1942C}" {
+    Position 0.268 0.002 0.496
+   }
+   ShapePoint "{69C6991712BF2874}" {
+    Position -1.246 0.019 1.739
+   }
+   ShapePoint "{69C699171110D31A}" {
+    Position -1.477 0 3.053
+   }
+   ShapePoint "{69C69917168F4D4A}" {
+    Position -2.035 0 5.996
+   }
+   ShapePoint "{69C6991717E90D07}" {
+    Position -2.342 0 7.555
+   }
+   ShapePoint "{69C6991714AD489E}" {
+    Position -2.001 0 9.375
+   }
+   ShapePoint "{69C6991714CB3B95}" {
+    Position -1.27 0 10.888
+   }
+   ShapePoint "{69C6991715B65294}" {
+    Position 0.131 0 14.039
+   }
+   ShapePoint "{69C699171525ABBE}" {
+    Position 1.986 0 16.646
+   }
+   ShapePoint "{69C699170AA951A1}" {
+    Position 4.09 0 19.223
+   }
+   ShapePoint "{69C6991708C6AFD8}" {
+    Position 6.692 0 22.276
+   }
+   ShapePoint "{69C69917084142A1}" {
+    Position 8.286 0 23.308
+   }
+   ShapePoint "{69C699170974E83A}" {
+    Position 10.285 0 24.611
+   }
+   ShapePoint "{69C699170E0793E0}" {
+    Position 12.31 0 25.18
+   }
+   ShapePoint "{69C699170F9E39D6}" {
+    Position 14.819 0 25.546
+   }
+   ShapePoint "{69C699170C8C445E}" {
+    Position 16.58 0 25.728
+   }
+   ShapePoint "{69C699170C6827DA}" {
+    Position 15.469 0 23.776
+   }
+   ShapePoint "{69C6991702B0EBBF}" {
+    Position 12.728 0 19.9
+   }
+   ShapePoint "{69C69917416F57B7}" {
+    Position 11.701 0 18.201
+   }
+   ShapePoint "{69C69917023C5138}" {
+    Position 10.263 0 16.18
+   }
+   ShapePoint "{69C6991700EDDE4E}" {
+    Position 7.275 0 11.398
+   }
+   ShapePoint "{69C69917006D8048}" {
+    Position 4.601 0 7.482
+   }
+   ShapePoint "{69C6991701DF3BF7}" {
+    Position 2.326 0 3.799
+   }
+   ShapePoint "{69C69917014BE753}" {
+    Position 0.527 0 0.941
+   }
+  }
+  IsClosed 1
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{59B0C519BF4FCF12}Prefabs/WEGenerators/Pavements/Concrete/WG_ConcreteKerb_01.et" {
+    Flags 0x100003 0
+    m_iSeed 1376
+    {
+     $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
+      {
+       coords 0.268 -0.009 0.496
+       angles 0 -140.64 0
+      }
+      {
+       coords -1.292 0.065 1.777
+       angles 0 -99.985 0
+      }
+      {
+       coords -1.642 -0.032 3.762
+       angles 0 -99.985 0
+      }
+      {
+       coords -1.992 -0.202 5.748
+       angles 0 -100.977 0
+      }
+      {
+       coords -2.376 -0.263 7.728
+       angles 0 -77.193 0
+      }
+      {
+       coords -1.928 -0.256 9.697
+       angles 0 -64.627 0
+      }
+      {
+       coords -1.063 -0.269 11.522
+       angles 0 -64.627 0
+      }
+      {
+       coords -0.197 -0.287 13.347
+       angles 0 -56.505 0
+      }
+      {
+       coords 0.918 -0.287 15.031
+       angles 0 -56.505 0
+      }
+      {
+       coords 2.033 -0.288 16.716
+       angles 0 -50.624 0
+      }
+      {
+       coords 3.314 -0.299 18.278
+       angles 0 -49.811 0
+      }
+      {
+       coords 4.618 -0.305 19.821
+       angles 0 -49.811 0
+      }
+      {
+       coords 5.921 -0.347 21.364
+       angles 0 -39.418 0
+      }
+      {
+       coords 7.482 -0.35 22.647
+       angles 0 -35.023 0
+      }
+      {
+       coords 9.136 -0.366 23.806
+       angles 0 -23.409 0
+      }
+      {
+       coords 10.99 -0.322 24.609
+       angles 0 -13.76 0
+      }
+      {
+       coords 12.952 -0.329 25.089
+       angles 0 -13.76 0
+      }
+      {
+       coords 14.914 -0.306 25.57
+       angles 0 -5.445 0
+      }
+      {
+       coords 16.925 -0.308 25.761
+       angles 0 -233.736 0
+      }
+      {
+       coords 15.73 -0.293 24.132
+       angles 0 -234.648 0
+      }
+      {
+       coords 14.562 -0.28 22.485
+       angles 0 -234.648 0
+      }
+      {
+       coords 13.393 -0.254 20.837
+       angles 0 -237.31 0
+      }
+      {
+       coords 12.302 -0.224 19.137
+       angles 0 -235.412 0
+      }
+      {
+       coords 11.155 -0.24 17.474
+       angles 0 -235.412 0
+      }
+      {
+       coords 10.008 -0.199 15.811
+       angles 0 -238.228 0
+      }
+      {
+       coords 8.945 -0.18 14.094
+       angles 0 -238.228 0
+      }
+      {
+       coords 7.881 -0.154 12.377
+       angles 0 -236.169 0
+      }
+      {
+       coords 6.757 -0.074 10.7
+       angles 0 -236.169 0
+      }
+      {
+       coords 5.633 -0.007 9.023
+       angles 0 -236.169 0
+      }
+      {
+       coords 4.509 0.059 7.345
+       angles 0 -238.383 0
+      }
+      {
+       coords 3.45 0.072 5.625
+       angles 0 -238.383 0
+      }
+      {
+       coords 2.391 0.038 3.905
+       angles 0 -237.833 0
+      }
+      {
+       coords 1.316 0.003 2.195
+       angles 0 -238.343 0
+      }
+     }
+    }
+   }
+  }
+ }
+}
 $grp SplineShapeEntity {
  {
   coords 894.833 105.309 753.1
@@ -1945,6 +2360,10 @@ $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrast
  {
   coords 841.983 0.025 673.999
   angles 0 128.13 0
+ }
+ {
+  coords 929.322 -0.062 837.851
+  angles 0 -165.016 0
  }
 }
 $grp StaticModelEntity : "{987B35F6140166E9}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_4m_90.et" {
