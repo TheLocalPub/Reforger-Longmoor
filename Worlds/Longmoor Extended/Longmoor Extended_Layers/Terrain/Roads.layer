@@ -15391,7 +15391,7 @@ $grp SplineShapeEntity {
        scale 0.586
       }
       {
-       coords 127.411 11.305 157.92
+       coords 126.343 11.305 157.13
        angles -0.204 177.006 0.864
        scale 0.635
       }
@@ -16646,7 +16646,7 @@ $grp SplineShapeEntity {
        scale 1.134
       }
       {
-       coords -7.081 4.174 35.286
+       coords -7.739 4.174 36.218
        angles 1.257 66.502 0.776
        scale 1.091
       }
@@ -17475,7 +17475,7 @@ $grp SplineShapeEntity {
        scale 0.267
       }
       {
-       coords 83.278 14.159 156.58
+       coords 84.83 14.159 156.141
        angles 0 205.593 0
        scale 0.331
       }
