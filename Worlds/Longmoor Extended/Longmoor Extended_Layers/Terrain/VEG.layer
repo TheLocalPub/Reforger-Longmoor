@@ -43,6 +43,16 @@ Tree : "{053196EF2505964A}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_
  angles 0 -75.338 0
  scale 1.101
 }
+$grp Tree : "{054B89DDC0DBA1C2}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_corner_04.et" {
+ {
+  coords 807.147 3.481 810.881
+  angles 0 -52.064 0
+ }
+ {
+  coords 777.243 3.817 740.793
+  angles 1.168 -144.462 34.561
+ }
+}
 $grp Tree : "{0572596E23DDDC10}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_pinus_sylvestris_2f.et" {
  {
   coords 61.692 0.04 142.265
@@ -442,6 +452,16 @@ StaticModelEntity : "{28523544C90FE721}PrefabLibrary/DefaultLibrary/Vegetation/P
  angles 0 25.621 0
  scale 1.084
 }
+$grp Tree : "{2E09EDC2298B28CB}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_wall_02.et" {
+ {
+  coords 777.004 1.358 720.628
+  angles 0 38.655 0
+ }
+ {
+  coords 785.211 0.625 777.062
+  angles 0 37.391 0
+ }
+}
 Tree : "{2EBA53AE283F487F}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2xw.et" {
  coords 148.466 0 309.252
  angles 1.887 207.78 2.439
@@ -566,6 +586,10 @@ $grp Tree : "{425761285F36BF16}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_b
   angles 0 169.447 0
   scale 1.115
  }
+}
+Tree : "{425DD922954FA7E5}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_wall_01.et" {
+ coords 785.33 1.185 740.723
+ angles 0 -53.161 0
 }
 $grp Tree : "{4FE3B631FA363978}Prefabs/Vegetation/Vegetables/CapsicumCrop_01.et" {
  {
@@ -1006,9 +1030,9 @@ Tree : "{9253AEACBE775113}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_
  scale 0.923
 }
 Tree : "{932E56F57F6F0C9A}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_salix_cinerea_1w.et" {
- coords 900.16 0 816.082
- angles -0.147 178.677 1.396
- scale 2.189
+ coords 900.147 0.069 816.073
+ angles -2.024 178.631 3.606
+ scale 1.7
 }
 Tree : "{9453357AF589DBE4}Prefabs/Vegetation/Vegetables/PotatoCrop_01_Shortline.et" {
  coords 835.19 0.277 957.052
@@ -1330,6 +1354,10 @@ $grp Tree : "{AF4BFBE29028A9FD}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
   angles 8.242 -158.508 63.718
   scale 0.34
  }
+}
+Tree : "{B1B7D4FC059630B0}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_corner_01.et" {
+ coords 784.801 -0.08 776.505
+ angles 0 128.371 0
 }
 Tree : "{B2865E0C5A335E76}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_stem_01.et" {
  coords 216.611 0.116 364.068
@@ -1673,7 +1701,7 @@ Tree : "{CED0732AEAD82213}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_
 }
 $grp Tree : "{CF0A210B7AC7B329}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_corylus_avellana_2.et" {
  {
-  coords 792.632 0.001 783.454
+  coords 792.694 -0.265 783.822
   angles -1.676 58.397 0.354
   scale 0.603
  }
@@ -2841,6 +2869,10 @@ $grp Tree : "{DB49D8B142D18E86}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_b
   angles -3.053 168.01 1.556
   scale 0.892
  }
+}
+Tree : "{DDE3E01CB952BF9E}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_corner_02.et" {
+ coords 780.158 -0.011 729.698
+ angles -1 36.916 0.014
 }
 $grp Tree : "{E67DFD8937BD07B1}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_betula_pendula_2t.et" {
  {

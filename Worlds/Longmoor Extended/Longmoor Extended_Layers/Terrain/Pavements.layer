@@ -1801,8 +1801,9 @@ $grp StaticModelEntity : "{092D829CA26D983C}Prefabs/Structures/Infrastructure/Pa
   angles 1.924 168.059 -0.304
  }
  {
-  coords 886.094 0.098 821.227
-  angles -0.052 -167.917 0.037
+  Flags 0 0x80000
+  coords 886.094 103.281 821.227
+  angles 0.023 -167.917 -0.312
  }
  {
   Flags 0x403 0x80000
@@ -2202,9 +2203,9 @@ $grp StaticModelEntity : "{F80AA4A51B6CDD31}Prefabs/Structures/Infrastructure/Pa
   placement slopelandcontact
  }
  {
-  coords 870.129 -0.053 818.481
-  angles 0 -54.501 0
-  placement slopelandcontact
+  Flags 0 0x80000
+  coords 870.13 103.082 818.482
+  angles 0 -54.501 -0.148
  }
  {
   Flags 0x403 0x80000

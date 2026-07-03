@@ -1,0 +1,8 @@
+GenericEntity : "{3A11F5367AB523AB}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Vole_V1.et" {
+ coords 790.595 100.983 678.224
+ angles 0.475 176.057 0
+}
+GenericEntity : "{A46242F569F68E38}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Anarchy_V1.et" {
+ coords 788.965 100.914 678
+ angles 1.383 170.856 0.013
+}

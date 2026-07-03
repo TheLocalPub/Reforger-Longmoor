@@ -1,0 +1,14 @@
+GameEnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/ProbeEnvCave_base.et" {
+ coords 769.364 100.726 716.987
+ Priority 0
+ CaptureLights 1
+ {
+  ProbeVolume : "{CD5BB05FBEEBAE01}Prefabs/Structures/Core/ProbeVolume_Base.et" {
+   coords 22.763 -23.248 -4.01
+   angles -0.666 37.127 -1.442
+   Box BoundingVolume "{69BC9B0407FF53DE}" {
+    Size 150 55 100
+   }
+  }
+ }
+}

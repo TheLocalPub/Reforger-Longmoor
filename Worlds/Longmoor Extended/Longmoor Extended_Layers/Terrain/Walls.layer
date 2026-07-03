@@ -21214,12 +21214,12 @@ $grp SCR_DestructibleBuildingEntity : "{575E507D9F677F15}Prefabs/Structures/Wall
 }
 $grp SCR_DestructibleEntity : "{595F29E55480E432}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_6m_B.et" {
  {
-  coords 850.293 -1.789 746.676
+  coords 850.293 -1.455 746.676
   angles 0 -144.421 0
  }
  {
   Flags 0x3 0x80400
-  coords 845.791 103.449 749.896
+  coords 845.791 103.783 749.896
   angles 0 -144.421 0
  }
 }
@@ -21798,18 +21798,18 @@ $grp SCR_DestructibleEntity : "{BF6DA4D2C6133846}PrefabLibrary/DefaultLibrary/Wa
 $grp SCR_DestructibleEntity : "{CAFF4B51059A0F81}PrefabLibrary/DefaultLibrary/Walls/Concrete/ConcreteWall_01_3m.et" {
  {
   Flags 0x3 0x80400
-  coords 831.27 102.989 733.25
+  coords 831.27 103.336 733.25
   angles 0 -144.347 0
  }
  {
   Flags 0x3 0x80400
-  coords 827.277 103.014 736.069
+  coords 827.277 103.361 736.069
   angles 0 35.229 0
  }
 }
 SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et" {
  Flags 0x3 0x80400
- coords 858.081 102.933 772.55
+ coords 857.802 102.926 772.751
  angles 0.086 35.668 -1.164
  placement slopelandcontact
 }
