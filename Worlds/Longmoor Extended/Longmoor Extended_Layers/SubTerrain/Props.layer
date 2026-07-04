@@ -535,7 +535,7 @@ $grp GenericEntity : "{5ACA2B2C63CCD7C3}Prefabs/Structures/BuildingParts/Misc/Ve
  }
  {
   coords 810.7 103.121 699.685
-  angles 0.289 126.39 -0.203
+  angles 0.296 128.371 -0.193
  }
  {
   coords 778.822 101.156 760.283
@@ -3483,6 +3483,9 @@ SCR_DestructibleBuildingEntity : "{8DF7F603987CC4A7}Prefabs/Structures/Infrastru
   SCR_MapDescriptorComponent "{55828654F8A4BE03}" {
    Enabled 0
   }
+  WorldSubsceneComponent "{615AB127D70A45EE}" {
+   Enabled 0
+  }
  }
  coords 866.766 99.814 779.105
  angles 0 126.889 0
@@ -3798,19 +3801,12 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
    }
    GenericEntity : "{5DBB89C4C312D23E}Prefabs/Structures/BuildingParts/Doors/HatchSet_Lightbeacon_Camouflage.et" {
-    components {
-     WorldSubsceneComponent "{69C8E46563B49910}" {
-     }
-    }
     coords -0.015 -0.022 0.503
     angles 90 88.973 0
     {
      GenericEntity {
       ID "65A70CD651A3C319"
-      components {
-       WorldSubsceneComponent "{69C8E465615AF4A0}" {
-       }
-      }
+      coords 0 0 0
      }
     }
    }
@@ -4046,19 +4042,11 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
    }
    GenericEntity : "{5DBB89C4C312D23E}Prefabs/Structures/BuildingParts/Doors/HatchSet_Lightbeacon_Camouflage.et" {
-    components {
-     WorldSubsceneComponent "{69C8A00D9AA5376A}" {
-     }
-    }
     coords -0.015 -0.022 0.503
     angles 90 88.973 0
     {
      GenericEntity {
       ID "65A70CD651A3C319"
-      components {
-       WorldSubsceneComponent "{69C8A00D9844C217}" {
-       }
-      }
      }
     }
    }

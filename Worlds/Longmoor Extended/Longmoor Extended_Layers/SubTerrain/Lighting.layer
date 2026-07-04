@@ -1,6 +1,7 @@
 $grp GameEnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/ProbeEnvCave_base.et" {
  {
   coords 769.364 100.726 716.987
+  Priority 0
   InteriorProbe 0
   {
    $grp ProbeVolume : "{CD5BB05FBEEBAE01}Prefabs/Structures/Core/ProbeVolume_Base.et" {
@@ -169,19 +170,74 @@ $grp GameEnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/Pro
      EV -1
     }
     {
-     coords 82.234 -1.027 36.085
-     angles -3.123 -58.976 1.136
+     coords 78.461 -0.888 29.826
+     angles -2.435 -58.962 0.85
      Box BoundingVolume "{69C8A01690CF9FC8}" {
-      Size 44.52 9.703 10.781
+      Size 54.334 9.703 10.781
      }
      BoxReflection 1
      EV -1
     }
     {
-     coords 81.524 3.684 40.068
+     coords 81.526 3.684 40.072
      angles 0.084 25.119 -0.2
      Box BoundingVolume "{69C8A01690CF9FC8}" {
-      Size 1.485 0.913 1.52
+      Size 1.485 0.913 1.529
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 1.885 -0.638 -15.679
+     angles -1.407 -0.421 -1.185
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 9.346 4.407 24.168
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 13.6 -0.229 -34.871
+     angles -1.838 -38.251 -0.073
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 16.039 4.252 34.317
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 33.44 0.242 -40.207
+     angles -0.472 -115.645 1.778
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 18.32 6.636 40.564
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 45.211 0.816 -18.775
+     angles -2.231 -52.382 -0.517
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 65.442 5.68 9
+     }
+     BoxReflection 1
+     BoxLerp 0
+     EV -1
+    }
+    {
+     coords 49.696 3.654 -7.957
+     angles 0.126 37.792 -0.177
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.462 0.851 1.42
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 47.297 3.821 -40.334
+     angles 0.205 72.966 -0.072
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.462 0.851 1.42
      }
      BoxReflection 1
      EV -1

@@ -66,9 +66,9 @@ $grp DecalEntity : "{A8F7CB83AA7FE99B}Prefabs/Decals/Dirt/Decal_Dirt_Footprints_
  }
 }
 GenericEntity : "{B716516F961C0FF7}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num0.et" {
- coords 818.453 101.349 676.385
+ coords 818.454 101.268 676.381
  angles -87.043 170.538 173.273
- scale 0.08
+ scale 0.1
 }
 DecalEntity : "{C0FAEF93F8DB08F5}Prefabs/Decals/Dirt/Decal_Dirt_Patch_07.et" {
  coords 851.21 104.874 757.058
