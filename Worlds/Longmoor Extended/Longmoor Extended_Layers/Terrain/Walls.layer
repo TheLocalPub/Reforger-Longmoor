@@ -1759,32 +1759,6 @@ $grp SplineShapeEntity {
     Flags 0x100003 0
     coords 0 0 0
     {
-     $grp SCR_DestructibleEntity : "{8055E769FC548190}PrefabLibrary/DefaultLibrary/Walls/Net/NetFence_01_Pole.et" {
-      {
-       coords 2.64 -241.447 -1.987
-       angles 0 36.467 0
-      }
-      {
-       coords 5.825 -232.535 -4.341
-       angles 0 36.467 0
-      }
-      {
-       coords 8.795 -240.935 -6.961
-       angles 0 41.538 0
-      }
-      {
-       coords 10.293 -248.158 -8.287
-       angles 0 41.538 0
-      }
-      {
-       coords 12.262 -256.089 -8.213
-       angles 0 -4.22 0
-      }
-      {
-       coords 14.722 -245.058 -5.15
-       angles 0 -52.328 0
-      }
-     }
      $grp SCR_DestructibleEntity : "{BF6DA4D2C6133846}PrefabLibrary/DefaultLibrary/Walls/Wooden/WoodenFence_03_4m.et" {
       {
        coords -0.502 -0.088 0.335
@@ -1849,14 +1823,6 @@ $grp SplineShapeEntity {
       {
        coords 0.671 -0.395 0.626
        angles 0 -50.447 0
-      }
-      {
-       coords 4.621 -240.844 0.667
-       angles 0 0.529 0
-      }
-      {
-       coords 8.581 -234.821 0.63
-       angles 0 0.529 0
       }
       {
        coords 12.542 -0.353 0.594

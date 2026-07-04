@@ -3,9 +3,22 @@ Tree : "{054B89DDC0DBA1C2}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_c
  angles -4.034 -56.334 0
 }
 StaticModelEntity : "{1574FF401C377B4B}Prefabs/Structures/BuildingParts/Doors/Door_TinWall_01_rusty/DoorSet_TinWall_01_Gate_Small_rusty.et" {
+ components {
+  WorldSubsceneComponent "{69C8A0028091AF71}" {
+  }
+ }
  coords 914.423 -4.626 908.464
  angles 0 -91.44 0
  placement none
+ {
+  GenericEntity {
+   ID "56FCA49130686C34"
+   components {
+    WorldSubsceneComponent "{69C8A00287BBD376}" {
+    }
+   }
+  }
+ }
 }
 GenericEntity : "{176BCBF851AAA88F}Prefabs/Props/Civilian/Lamps/Lamp Industrial 02.et" {
  coords 817.089 104.057 677.845
@@ -26,6 +39,7 @@ $grp SCR_DestructibleBuildingEntity : "{1EBCCFE4C5D09AEE}Prefabs/Structures/Infr
      1
      1
     }
+    ClutterOccluder 0
    }
   }
   coords 910.778 90.966 908.034
@@ -3238,7 +3252,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
-  coords 906.04 96.972 904.329
+  coords 905.64 97.02 903.508
   angles -0.696 -64.058 3
   scale 1.25
  }
@@ -3363,52 +3377,52 @@ $grp SCR_DestructibleBuildingEntity : "{6DF062B77D4F27B5}Prefabs/Structures/Infr
  }
  {
   Flags 0 0x80000
-  coords 908.28 103.522 825.664
+  coords 907.686 103.522 826.088
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 918.858 103.523 818.107
+  coords 918.264 103.523 818.531
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 916.216 103.523 814.408
+  coords 915.622 103.523 814.832
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 905.638 103.522 821.965
+  coords 905.044 103.522 822.389
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 913.584 103.522 810.725
+  coords 912.99 103.522 811.149
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 910.943 103.522 807.026
+  coords 910.349 103.522 807.45
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 900.365 103.522 814.583
+  coords 899.771 103.522 815.007
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 903.006 103.523 818.282
+  coords 902.412 103.523 818.706
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 908.342 103.523 803.385
+  coords 907.748 103.523 803.809
   angles 0 35.543 0
  }
  {
   Flags 0 0x80000
-  coords 897.764 103.538 810.942
+  coords 897.17 103.538 811.366
   angles 0 35.543 0
  }
 }
@@ -3590,7 +3604,7 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
    $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et" {
     {
      Flags 0 0x80000
-     coords 2.543 -0.275 1.173
+     coords 2.485 -0.275 1.171
      angles 89.5 -160.636 -69.61
     }
     {
@@ -3603,20 +3617,20 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
     {
      Flags 0 0x80000
-     coords -0.015 -0.282 3.052
+     coords -0.014 -0.283 2.985
      angles 89.363 -137.575 43.45
     }
     {
      Flags 0 0x80000
-     coords -2.602 -0.359 1.081
+     coords -2.549 -0.358 1.082
      angles 88.246 -117.746 153.292
     }
     {
-     coords -1.961 -1.95 -0.445
+     coords -1.961 -1.95 -0.438
      angles 0 179.9 0.511
     }
     {
-     coords 2.008 -1.92 -0.439
+     coords 2.008 -1.92 -0.432
      angles 0 179.9 0.511
     }
     {
@@ -3784,8 +3798,21 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
    }
    GenericEntity : "{5DBB89C4C312D23E}Prefabs/Structures/BuildingParts/Doors/HatchSet_Lightbeacon_Camouflage.et" {
+    components {
+     WorldSubsceneComponent "{69C8E46563B49910}" {
+     }
+    }
     coords -0.015 -0.022 0.503
     angles 90 88.973 0
+    {
+     GenericEntity {
+      ID "65A70CD651A3C319"
+      components {
+       WorldSubsceneComponent "{69C8E465615AF4A0}" {
+       }
+      }
+     }
+    }
    }
    $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Large.et" {
     {
@@ -3895,8 +3922,21 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
    }
    GenericEntity : "{5DBB89C4C312D23E}Prefabs/Structures/BuildingParts/Doors/HatchSet_Lightbeacon_Camouflage.et" {
+    components {
+     WorldSubsceneComponent "{69C8A00C3CD874B1}" {
+     }
+    }
     coords -0.015 -0.022 0.503
     angles 90 88.973 0
+    {
+     GenericEntity {
+      ID "65A70CD651A3C319"
+      components {
+       WorldSubsceneComponent "{69C8A00C39700D1F}" {
+       }
+      }
+     }
+    }
    }
    $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Large.et" {
     {
@@ -4006,8 +4046,21 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
    }
    GenericEntity : "{5DBB89C4C312D23E}Prefabs/Structures/BuildingParts/Doors/HatchSet_Lightbeacon_Camouflage.et" {
+    components {
+     WorldSubsceneComponent "{69C8A00D9AA5376A}" {
+     }
+    }
     coords -0.015 -0.022 0.503
     angles 90 88.973 0
+    {
+     GenericEntity {
+      ID "65A70CD651A3C319"
+      components {
+       WorldSubsceneComponent "{69C8A00D9844C217}" {
+       }
+      }
+     }
+    }
    }
    $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Large.et" {
     {
@@ -4034,15 +4087,15 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
    $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et" {
     {
      Flags 0 0x80000
-     coords 2.543 -0.275 1.173
+     coords 2.519 -0.275 1.173
      angles 89.5 -160.636 -69.61
     }
     {
-     coords -1.961 -1.95 -0.445
+     coords -1.961 -1.95 -0.45
      angles 0 179.9 0.511
     }
     {
-     coords 2.008 -1.92 -0.439
+     coords 2.008 -1.92 -0.444
      angles 0 179.9 0.511
     }
     {
@@ -4051,7 +4104,7 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
     {
      Flags 0 0x80000
-     coords -2.602 -0.359 1.081
+     coords -2.573 -0.358 1.082
      angles 88.246 -117.746 153.292
     }
     {
@@ -4060,7 +4113,7 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
     {
      Flags 0 0x80000
-     coords -0.015 -0.282 3.052
+     coords -0.015 -0.282 3.025
      angles 89.363 -137.575 43.45
     }
     {
@@ -4145,7 +4198,7 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
    $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et" {
     {
      Flags 0 0x80000
-     coords 2.543 -0.275 1.173
+     coords 2.482 -0.275 1.172
      angles 89.5 -160.636 -69.61
     }
     {
@@ -4158,12 +4211,12 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
     }
     {
      Flags 0 0x80000
-     coords -0.015 -0.282 3.052
+     coords -0.014 -0.283 2.977
      angles 89.363 -137.575 43.45
     }
     {
      Flags 0 0x80000
-     coords -2.602 -0.359 1.081
+     coords -2.553 -0.358 1.082
      angles 88.246 -117.746 153.292
     }
     {
@@ -4366,6 +4419,11 @@ GameEntity : "{B42A20BC3C091765}Prefabs/Structures/BuildingParts/Ladders/Ladder_
   }
  }
 }
+GenericEntity : "{B5AB9CF0FD5BB378}Prefabs/Structures/BuildingParts/Windows/Win_Soviet_E_A/Win_Bars_Soviet_170x182_01.et" {
+ coords 873.665 98.01 954.251
+ angles 0 -141.311 0
+ scale 1.23
+}
 $grp StaticModelEntity : "{BB64FBA6986C62F7}Prefabs/Structures/BuildingParts/Entry/ConcreteSlope_02_MediumVehicle.et" {
  {
   coords 932.243 98.554 911.236
@@ -4445,7 +4503,7 @@ $grp GenericEntity : "{BCCE1BF4AD886040}Prefabs/Structures/BuildingsParts/Entry/
   angles 0 71.902 0
  }
  {
-  coords 906.93 96.678 906.029
+  coords 906.466 96.678 905.114
   angles 0 116.902 0
  }
 }
@@ -4536,7 +4594,7 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
  }
  {
   Flags 0 0x80000
-  coords 818.239 102.724 710.059
+  coords 818.244 102.724 710.055
   angles 0.393 129.572 0.326
  }
  {
