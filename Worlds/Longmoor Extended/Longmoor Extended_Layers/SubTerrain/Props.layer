@@ -51,8 +51,33 @@ Tree : "{1F1980176A5052DC}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_rosa_
  scale 1.063
 }
 SCR_DestructibleBuildingEntity : "{24BA2E136E8815C2}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_line.et" {
- coords 855.075 100.673 904.931
+ Flags 0 0x80000
+ coords 855.075 100.784 904.931
  angles 0 88.772 0
+ {
+  Building {
+   ID "565ECD1516B5DAAE"
+   Flags 0 0x80000
+   coords 0 -1.952 0
+  }
+  GameEnvironmentProbeEntity {
+   ID "5E76AB7B04F56D25"
+   Flags 0 0x80000
+   coords -0.443 1.198 -0.378
+  }
+  GenericEntity {
+   ID "565ECD1516B5DAEE"
+   Flags 0 0x80000
+   coords 0 -0.102 0
+   {
+    GenericEntity {
+     ID "5868A8EBB1314136"
+     Flags 0 0x80000
+     coords 0 -0.037 0
+    }
+   }
+  }
+ }
 }
 GenericEntity : "{2887E99075B9C928}Prefabs/Props/Garbage/Generic/Litter_01_long.et" {
  coords 852.431 99.795 830.392
@@ -4272,7 +4297,7 @@ GameEntity : "{B42A20BC3C091765}Prefabs/Structures/BuildingParts/Ladders/Ladder_
    }
   }
  }
- coords 816.892 -0.001 676.113
+ coords 816.892 104.745 676.113
  angles -0.347 -15.759 0
  {
   GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesealer_Longmoor.et" {
@@ -5252,12 +5277,9 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   angles -0.123 85.807 179.504
  }
  {
-  coords 856.02 98.907 904.99
-  angles -0.501 -0.701 -179.9
- }
- {
-  coords 859.842 97.531 905.08
-  angles -0.501 -1.535 -179.9
+  Flags 0 0x80000
+  coords 856.017 98.909 904.972
+  angles 0 -0.701 -180
  }
  {
   coords 858.115 -3.252 901.796
@@ -5305,7 +5327,8 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   angles -0.608 -88.14 0.023
  }
  {
-  coords 859.735 98.874 905.035
+  Flags 0 0x80000
+  coords 859.729 97.267 905.004
   angles 0.501 179.299 178.815
  }
  {
@@ -5352,39 +5375,28 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   angles 0.08 129.854 -0.505
  }
  {
-  coords 943.338 97.388 911.807
+  Flags 0 0x80000
+  coords 943.33 100.885 911.762
   angles 0.503 -179.45 179.911
  }
  {
-  coords 939.444 97.394 911.846
-  angles -0.503 0.55 -179.911
+  Flags 0 0x80000
+  coords 939.437 100.85 911.831
+  angles -0.505 1.612 -179.92
  }
  {
-  coords 939.443 100.889 911.875
-  angles 0.503 -179.45 -0.089
- }
- {
-  coords 943.339 100.883 911.839
+  Flags 0 0x80000
+  coords 943.331 100.886 911.794
   angles -0.503 0.55 0.089
  }
  {
-  coords 943.303 100.916 908.124
+  Flags 0 0x80000
+  coords 943.295 100.887 908.079
   angles -0.502 0.111 0.093
  }
  {
-  coords 939.407 100.922 908.13
-  angles 0.502 -179.889 -0.093
- }
- {
-  coords 939.408 97.427 908.102
-  angles -0.502 0.111 -179.907
- }
- {
-  coords 943.302 97.421 908.092
-  angles 0.502 -179.889 179.907
- }
- {
-  coords 935.713 -5.21 908.109
+  Flags 0 0x80000
+  coords 943.294 100.888 908.047
   angles 0.502 -179.889 179.907
  }
  {
@@ -5420,10 +5432,6 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   angles -88.666 -111.562 112.117
  }
  {
-  coords 939.407 100.922 908.13
-  angles 0.502 -179.889 -0.093
- }
- {
   Flags 0 0x80000
   coords 911.486 98.48 906.151
   angles -0.009 -73.729 -179.997
@@ -5450,23 +5458,21 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   angles -0.008 -79.669 0.004
  }
  {
-  coords 941.148 102.762 911.849
+  Flags 0 0x80000
+  coords 941.143 102.747 911.82
   angles -0.503 -0.324 0.089
   scale 1.6
  }
  {
-  coords 941.139 96.934 911.797
+  Flags 0 0x80000
+  coords 941.131 100.884 911.752
   angles -0.503 -0.324 0.089
   scale 1.6
  }
  {
-  coords 941.157 97.135 908.228
+  Flags 0 0x80000
+  coords 941.149 100.888 908.139
   angles 0.503 0.55 -0.089
-  scale 1.6
- }
- {
-  coords 941.147 102.999 908.129
-  angles -0.503 -179.45 0.089
   scale 1.6
  }
  {
@@ -5491,6 +5497,39 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   Flags 0 0x80000
   coords 872.424 96.705 952.321
   angles 89.956 145.921 -155.578
+ }
+ {
+  Flags 0 0x80000
+  coords 941.146 102.767 908.123
+  angles 0.503 0.55 -0.089
+  scale 1.6
+ }
+ {
+  coords 936.076 -1.902 908.138
+  angles 0.502 -179.889 179.907
+ }
+ {
+  Flags 0 0x80000
+  coords 856.017 95.321 904.972
+  angles 0 -0.701 -180
+ }
+ {
+  Flags 0 0x80000
+  coords 939.431 97.343 911.8
+  angles -0.505 1.612 -179.92
+ }
+ {
+  Flags 0 0x80000
+  coords 858.051 98.909 904.997
+  angles 0 -0.701 -180
+ }
+ {
+  coords 935.442 -7.239 908.092
+  angles 0.502 -179.889 -0.093
+ }
+ {
+  coords 936.07 -5.526 908.106
+  angles 0.502 -179.889 179.907
  }
 }
 GenericEntity : "{DF3EF41CE4D441DE}Prefabs/Props/Industrial/BarrelMetal_01_rust.et" {

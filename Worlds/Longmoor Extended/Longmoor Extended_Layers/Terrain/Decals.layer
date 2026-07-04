@@ -92,7 +92,7 @@ $grp DecalEntity : "{2566A36AF43E9F9E}Prefabs/Decals/Dirt/Decal_Dirt_Patch_06.et
   TerrainOnly 0
  }
  {
-  coords 860.438 0.002 903.666
+  coords 860.283 0.01 904.016
   angles -90 -180 -180
   scale 2
   TerrainOnly 0
@@ -219,8 +219,8 @@ $grp DecalEntity : "{46679C8491043813}Prefabs/Decals/Dirt/Decal_Dirt_Patch_04_V2
   TerrainOnly 0
  }
  {
-  coords 858.122 100.769 905.937
-  angles -90 -180 -180
+  coords 858.122 100.76 905.937
+  angles -90 0 0
   scale 6
   FarPlane 0.24
   TerrainOnly 0
@@ -293,15 +293,15 @@ $grp DecalEntity : "{4932978A48FA10B0}Prefabs/Decals/Dirt/Decal_Dirt_Patch_05.et
   TerrainOnly 0
  }
  {
-  coords 858.301 100.717 903.748
-  angles -90 0.185 0
+  coords 858.301 100.781 903.748
+  angles -90 -179.815 -180
   scale 2
   FarPlane 5.58
   TerrainOnly 0
  }
  {
-  coords 855.734 98.013 903.38
-  angles -90 -10.759 180
+  coords 855.734 100.808 903.38
+  angles -90 169.241 0
   scale 2
   FarPlane 5.58
   TerrainOnly 0
@@ -1652,7 +1652,7 @@ $grp DecalEntity : "{A8F7CB83AA7FE99B}Prefabs/Decals/Dirt/Decal_Dirt_Footprints_
   angles -90 0 -18.808
  }
  {
-  coords 860.178 0.005 903.462
+  coords 859.693 100.763 903.292
   angles -90 -180 -180
   FarPlane 0.96
   TerrainOnly 0
@@ -1700,8 +1700,8 @@ $grp DecalEntity : "{ACAEDB73441F87DB}Prefabs/Decals/Dirt/Decal_Dirt_Patch_04.et
   TerrainOnly 0
  }
  {
-  coords 855.091 100.742 906.336
-  angles -90 -180 -180
+  coords 855.091 0.125 906.336
+  angles -90 180 180
   scale 4
   FarPlane 1.07
   TerrainOnly 0
@@ -3573,7 +3573,7 @@ $grp DecalEntity : "{FC56FA6166DEE7B7}Prefabs/Decals/Dirt/Decal_Dirt_Footprints_
   TerrainOnly 0
  }
  {
-  coords 860.981 -0.006 902.75
+  coords 860.811 -0.005 902.817
   angles -89.972 -127.869 180
   scale 1.5
   TerrainOnly 0

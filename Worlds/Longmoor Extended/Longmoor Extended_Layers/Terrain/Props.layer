@@ -4888,29 +4888,6 @@ GenericEntity : "{61D4F80E49BF9B12}Prefabs/Items/Equipment/Compass/Compass_SY183
  coords 678.882 86 235.457
  angles 0 51.004 0
 }
-GameEntity : "{6216288E2FFA4794}Prefabs/Props/Military/Ladders/Ladder BunkerTower.et" {
- components {
-  LadderComponent "{60DA46626BB9C57B}" {
-   "Visible in editor" 1
-  }
-  ActionsManagerComponent "{60DA46626BB9C3D5}" {
-   ActionContexts {
-    UserActionContext "{60DA46626BB9C399}" {
-     Position PointInfo "{60DA46626BB9C479}" {
-      Offset -0.0658 3.7891 0
-     }
-    }
-    UserActionContext "{60DA46626BB9C3BE}" {
-     Position PointInfo "{60DA46626BB9C390}" {
-      Offset 0 0.8169 0
-     }
-    }
-   }
-  }
- }
- coords 833.039 0.507 696.107
- angles 0 38.084 0
-}
 GenericEntity : "{62482F79CF1B97FD}Prefabs/Structures/BuildingParts/Lights/LampIndustrial_01.et" {
  coords 836.787 105.504 803.491
  angles 0 76.875 0

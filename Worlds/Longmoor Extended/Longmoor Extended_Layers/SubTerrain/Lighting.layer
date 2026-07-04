@@ -2,10 +2,16 @@ GameEnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/ProbeEnv
  coords 769.364 100.726 716.987
  {
   ProbeVolume : "{CD5BB05FBEEBAE01}Prefabs/Structures/Core/ProbeVolume_Base.et" {
-   coords 22.763 -23.248 -4.01
-   angles -0.666 37.127 -1.442
-   Box BoundingVolume "{69C8A012FB3D6845}" {
+   coords 0.053 -2.874 -0.102
+   angles -1.407 -0.421 -1.185
+   Box BoundingVolume "{69C8A01690CF9FC8}" {
+    Size 5.835 9.908 10
    }
   }
  }
+}
+GenericEntity : "{B5AB9CF0FD5BB378}Prefabs/Structures/BuildingParts/Windows/Win_Soviet_E_A/Win_Bars_Soviet_170x182_01.et" {
+ coords 873.665 98.01 954.251
+ angles 0 -141.311 0
+ scale 1.23
 }
