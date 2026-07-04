@@ -499,7 +499,7 @@ $grp GenericEntity : "{5ACA2B2C63CCD7C3}Prefabs/Structures/BuildingParts/Misc/Ve
   angles 0.289 126.39 -0.203
  }
  {
-  coords 778.799 100.983 760.232
+  coords 778.822 101.156 760.283
   angles 0 -66.049 0
  }
  {
@@ -4142,11 +4142,11 @@ $grp GameEntity : "{95E7341D1D6B2FD6}Prefabs/Structures/BuildingParts/Ladders/La
      angles 88.246 -117.746 153.292
     }
     {
-     coords -1.961 -1.95 -0.445
+     coords -1.961 -1.916 -0.445
      angles 0 179.9 0.511
     }
     {
-     coords 2.008 -1.92 -0.439
+     coords 2.008 -1.886 -0.439
      angles 0 179.9 0.511
     }
     {
@@ -4272,8 +4272,8 @@ GameEntity : "{B42A20BC3C091765}Prefabs/Structures/BuildingParts/Ladders/Ladder_
    }
   }
  }
- coords 816.892 104.747 676.113
- angles 0 -15.759 0
+ coords 816.892 -0.001 676.113
+ angles -0.347 -15.759 0
  {
   GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesealer_Longmoor.et" {
    components {
@@ -5123,7 +5123,7 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
   angles 0 35.592 179.991
  }
  {
-  coords 914.011 -1.981 830.274
+  coords 914.01 -1.811 830.274
   angles 0.494 104.9 0.132
  }
  {

@@ -1273,16 +1273,23 @@ $grp GenericEntity : "{13B4C532861B9DE2}Prefabs/Props/Commercial/BeerKegMetal_01
 }
 $grp GenericEntity : "{144FD43395AA93D7}Prefabs/Structures/Signs/Warnings/SignDeadEnd_01_pole.et" {
  {
-  coords 539.973 106.892 925.094
-  angles 0 37.072 0
- }
- {
   coords 851.589 102.874 794.684
   angles 0 -151.827 0
  }
  {
   coords 834.673 102.406 788.993
   angles 0 67.861 0
+ }
+ {
+  coords 429.721 107.473 734.349
+  angles 0 4.475 0
+  {
+   GenericEntity {
+    ID "569AF6000B5E07A5"
+    coords 0 0 0
+    angles 0 -5.834 0
+   }
+  }
  }
 }
 GenericEntity : "{1461FC63F9B45929}PrefabLibrary/DefaultLibrary/Props/Agricultural/Beehive_01_stack.et" {
@@ -3018,8 +3025,8 @@ GenericEntity : "{451BE00A37C69679}Prefabs/Structures/Military/Radar/ApproachRad
  scale 0.84
 }
 GenericEntity : "{45A92A053A884954}Prefabs/Props/Infrastructure/SnowBreakers/SnowBreaker_E_01_A.et" {
- coords 726.644 102.848 900.905
- angles 0 20.5 0
+ coords 726.642 102.738 900.899
+ angles -3.32 20.5 0
 }
 $grp GenericEntity : "{45F7BDF237E75478}Prefabs/Props/Civilian/Birdhouse_01/Birdhouse_01_pole.et" {
  {
@@ -6511,6 +6518,15 @@ $grp GenericEntity : "{8963CD1DC1CDB614}Prefabs/Props/Civilian/BeerBottle_01_bro
   coords 508.508 108.76 836.73
  }
 }
+SCR_DestructibleBuildingEntity : "{89FDF6F5697B462F}PrefabLibrary/DefaultLibrary/Structures/Military/GuardBox_01_b/GuardBox_01_beige.et" {
+ coords 639.235 0.261 955.077
+ angles 0 -57.425 0
+}
+StaticModelEntity : "{8A31FBB992F930E4}Prefabs/Structures/Agriculture/Manure/ManurePile_01/ManurePile_01.et" {
+ coords 1148.388 -0.064 891.836
+ angles 0 -41.225 0
+ scale 0.154
+}
 SCR_DestructibleBuildingEntity : "{8ACC8A8EB87A28FF}Prefabs/Structures/Houses/Village/House_Village_E_1I03/House_Village_E_1I03.et" {
  Flags 0x403 0x80000
  coords 832.942 100.768 977.945
@@ -6891,6 +6907,9 @@ $grp GenericEntity : "{985C3871D40C7F7B}Prefabs/Props/Garbage/Generic/Litter_01_
  }
  {
   coords 811.017 108.641 654.662
+ }
+ {
+  coords 1148.241 103.857 892.288
  }
 }
 $grp GenericEntity : "{986F38072A8DD563}Prefabs/Props/Garbage/Generic/Junk_01/Junk_01_single_planks.et" {
@@ -13290,8 +13309,21 @@ $grp DecalEntity : "{AF61766AF84BE75A}Prefabs/Decals/Asphalt/Decal_Asphalt_Crack
   scale 2.22
  }
 }
-GenericEntity : "{AFFB24010001435C}Prefabs/Props/Forest/FeedRack/FeedRack_01.et" {
- coords 551.079 106.758 739.079
+$grp GenericEntity : "{AFFB24010001435C}Prefabs/Props/Forest/FeedRack/FeedRack_01.et" {
+ {
+  coords 551.079 106.758 739.079
+ }
+ {
+  coords 553.438 106.887 818.528
+  angles 0 -51.114 0
+ }
+ {
+  coords 687.855 104.755 870.121
+  angles 0 -76.449 0
+ }
+ {
+  coords 594.435 106.409 945.386
+ }
 }
 $grp StaticModelEntity : "{B08DF585ECD2CF4D}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_SideSquareNarrow.et" {
  {
@@ -14988,7 +15020,7 @@ $grp GenericEntity : "{D0B44EB8DBEDDA97}Prefabs/Props/Civilian/Bucket_02.et" {
  }
 }
 GenericEntity : "{D0CEFA6F36840CB9}Prefabs/Structures/Signs/Warnings/SignJunctionMain_01_pole.et" {
- coords 623.006 106.161 969.715
+ coords 625.76 105.668 968.554
  angles 0 130.065 0
 }
 GenericEntity : "{D0D25CEDF887B717}Prefabs/Structures/BuildingParts/Doors/Door_NetFence_02_Small_RIGHT_EXT_ST_B.et" {
@@ -15038,6 +15070,18 @@ $grp GenericEntity : "{D1E82351C859A747}Prefabs/Props/Infrastructure/SnowBreaker
  {
   coords 679.747 103.643 938.81
   angles 0 36.863 0
+  {
+   GenericEntity {
+    ID "5216C470CA8056FE"
+    coords 2.777 -0.275 0.061
+    angles 1.989 7.835 1.078
+   }
+   GenericEntity {
+    ID "5216C470CA805614"
+    coords 0.662 -0.17 0.091
+    angles 0 0 1.274
+   }
+  }
  }
 }
 $grp GenericEntity : "{D27D94CE584C22E6}Prefabs/Props/Garbage/Cardboard/Cardboard_02.et" {
@@ -15916,28 +15960,6 @@ GenericEntity : "{DEC8AF3EFBB1EB75}PrefabLibrary/DefaultLibrary/Props/Garbage/Ju
 }
 GenericEntity : "{DF3EF41CE4D441DE}Prefabs/Props/Industrial/BarrelMetal_01_rust.et" {
  coords 234.162 108.544 647.741
-}
-$grp GenericEntity : "{DF812BE2FE475A2E}Prefabs/Structures/Military/Flags/FlagPole_02/FootballFFlag.et" {
- {
-  coords 664.536 104.105 765.428
-  angles 0 129.618 0
-  scale 0.37
- }
- {
-  coords 696.398 104.105 738.051
-  angles 0 -49.703 0
-  scale 0.37
- }
- {
-  coords 627.217 104.105 664.698
-  angles 0 -49.589 0
-  scale 0.37
- }
- {
-  coords 600.092 104.105 689.674
-  angles 0 64.004 0
-  scale 0.37
- }
 }
 $grp GenericEntity : "{E005876522A8CE1D}Prefabs/Structures/Agriculture/Henhouse/Henhouse_01/Henhouse_01.et" {
  {

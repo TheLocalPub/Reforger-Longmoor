@@ -310392,7 +310392,7 @@ $grp SplineShapeEntity {
        scale 1.076
       }
       {
-       coords -19.281 -0.975 64.29
+       coords -18.462 -1.266 63.343
        angles -7.442 85.257 10.784
        scale 1.184
       }
@@ -310808,7 +310808,7 @@ $grp SplineShapeEntity {
        scale 0.789
       }
       {
-       coords 0.009 -0.25 89.311
+       coords 0.61 -0.211 87.736
        angles -1.531 8.701 0
        scale 1.155
       }
@@ -313977,7 +313977,7 @@ $grp SplineShapeEntity {
        scale 0.902
       }
       {
-       coords -152.477 3.319 49.655
+       coords -151.711 3.36 48.707
        angles -5.465 30.378 0
        scale 0.642
       }
@@ -314019,7 +314019,7 @@ $grp SplineShapeEntity {
        scale 1.183
       }
       {
-       coords -168.885 3.101 32.958
+       coords -169.453 3.105 33.577
        angles -2.514 130.555 -3.324
        scale 0.294
       }
@@ -314113,7 +314113,7 @@ $grp SplineShapeEntity {
        scale 0.579
       }
       {
-       coords -74.078 1.959 -64.051
+       coords -74.179 1.959 -64.606
        angles 0 289.356 0
        scale 0.388
       }
@@ -314148,7 +314148,7 @@ $grp SplineShapeEntity {
        scale 0.871
       }
       {
-       coords -164.773 3.167 38.852
+       coords -165.211 3.167 39.069
        angles 0 6.878 0
        scale 0.395
       }
@@ -316658,7 +316658,7 @@ $grp SplineShapeEntity {
      }
      $grp Tree : "{0572596E23DDDC10}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_pinus_sylvestris_2f.et" {
       {
-       coords 11.455 -0.344 -21.152
+       coords 11.799 -0.345 -22.105
        angles 0.185 266.339 0
        scale 0.96
       }
@@ -316719,7 +316719,7 @@ $grp SplineShapeEntity {
        scale 0.973
       }
       {
-       coords 8.153 -0.285 -21.942
+       coords 7.818 -0.285 -21.077
        angles 0 127.808 0
        scale 1.001
       }
@@ -316731,7 +316731,7 @@ $grp SplineShapeEntity {
      }
      $grp Tree : "{99D77B10B980D106}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_carpinus_betulus_1f.et" {
       {
-       coords 30.182 -0.307 -11.28
+       coords 30.736 -0.415 -12.303
        angles 5.327 337.994 0
        scale 0.979
       }
@@ -387839,7 +387839,7 @@ $grp Tree : "{159BD386C0F6F3AD}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_p
   scale 0.934
  }
  {
-  coords 531.108 0 680.866
+  coords 531.204 -0.018 681.238
   angles -1.402 104.483 -0.821
   scale 0.981
  }

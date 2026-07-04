@@ -45,8 +45,8 @@ GenericEntity : "{6FBE38AEEF9511AB}Prefabs/Structures/Infrastructure/Roads/Runwa
  scale 0.1
 }
 GenericEntity : "{8A227457E37086C0}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num7.et" {
- coords 778.789 100.283 760.254
- angles 88.348 111.704 -2.868
+ coords 778.81 100.378 760.292
+ angles 88.713 110.891 -3.181
  scale 0.1
 }
 GenericEntity : "{A46242F569F68E38}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Anarchy_V1.et" {

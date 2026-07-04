@@ -135,28 +135,15 @@ $grp Tree : "{0572596E23DDDC10}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_p
   scale 0.802
  }
 }
-DecalEntity : "{0580335D3BE9ED45}Prefabs/Decals/Asphalt/Decal_Asphalt_Patch_BlobCluster_03.et" {
- coords 637.014 0.006 988.752
- angles -89.972 180 -87.599
-}
 Tree : "{05A3738C33E15AA8}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_picea_abies_3d_fallen_mossy.et" {
  coords 954.646 -0.001 812.1
  angles 0 52.846 0
  scale 1.177
 }
-DecalEntity : "{0B6336953A280DC2}Prefabs/Decals/Asphalt/Decal_Asphalt_Cracks_01.et" {
- coords 915.242 -0.006 786.401
- angles -89.972 180 128.61
-}
 Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
  coords 694.163 0.127 220.522
  angles 38.093 -18.93 0
  scale 0.46
-}
-DecalEntity : "{104C79BFAFEE06A9}Prefabs/Decals/Asphalt/Decal_Asphalt_Crossroad_02.et" {
- coords 939.408 0 980.172
- angles -90 0 0
- scale 2.6
 }
 $grp Tree : "{159BD386C0F6F3AD}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_pinus_sylvestris_3w.et" {
  {
@@ -1544,6 +1531,10 @@ StaticModelEntity : "{B8C48BEDFDE251BC}PrefabLibrary/DefaultLibrary/Vegetation/P
  coords 414.631 0.003 691.582
  angles 0 83.147 0
  scale 0.868
+}
+Tree : "{BAD7D94DDCF22C21}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_0s.et" {
+ coords 806.742 3.564 810.039
+ angles 0 -24.422 0
 }
 $grp Tree : "{C1F4CA4F9D788CE5}PrefabLibrary/DefaultLibrary/Vegetation/Trees/t_pinus_sylvestris_3s.et" {
  {
