@@ -44,6 +44,7 @@ PolylineShapeEntity {
   LakeGeneratorEntity : "{0263A3344F9DCAAD}Prefabs/WEGenerators/Water/Lake/LG_DirtyDrainage_01.et" {
    coords 0 0 0
    angles -0.162 0 0
+   m_MaterialName "{B934FE35291FD406}Terrains/Common/Water/Pond/DirtyDrainage_01_Longmoor.emat"
    m_bReversePointOrder 0
    m_bFlattenByBottomPlane 0
    m_fMinDepth 2

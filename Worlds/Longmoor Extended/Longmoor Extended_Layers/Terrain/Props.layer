@@ -1778,7 +1778,7 @@ $grp Tree : "{1F1980176A5052DC}PrefabLibrary/DefaultLibrary/Vegetation/Bushes/b_
  }
 }
 GenericEntity : "{1F7CF6F3117A2333}PrefabLibrary/DefaultLibrary/Infrastructure/Lamps/LampStreet_E_01_4m/LampStreet_E_01_4m_off.et" {
- coords 906.139 0.001 768.5
+ coords 904.852 -0.027 767.874
  angles 1.513 -138.904 0.994
 }
 SCR_DestructibleBuildingEntity : "{1FE3B590D2A1654D}Prefabs/Structures/Infrastructure/Power/TransformerSubstation_01/TransformerSubstation_01_white.et" {
@@ -4430,6 +4430,18 @@ $grp StaticModelEntity : "{59886E834739DCA2}Prefabs/Structures/Infrastructure/Pa
   coords 339.534 -0.01 647.651
   angles 0 149.768 0
  }
+ {
+  Flags 0 0x80000
+  coords 907.529 105.19 771.779
+  angles 0 -55.735 0
+  placement slopex
+ }
+ {
+  Flags 0 0x80000
+  coords 908.605 105.19 773.391
+  angles 0 34.265 0
+  placement slopex
+ }
 }
 $grp SCR_IndestructibleEnvironmentalEntity : "{59D79F785D414D67}PrefabLibrary/DefaultLibrary/Rocks/Granite/Granite_Stone_01/Granite_ForestStone_01.et" {
  {
@@ -5113,32 +5125,32 @@ SCR_DestructibleBuildingEntity : "{6ABF4CB2949CB4DE}Prefabs/Structures/Houses/Vi
 }
 $grp SCR_DestructibleEntity : "{6B08AEEC99A1CFE8}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_4m_v1.et" {
  {
-  coords 844.827 -0.454 877.559
+  coords 844.827 0.039 877.559
   angles 0 37.792 0
   placement none
  }
  {
-  coords 847.829 -0.426 875.23
+  coords 847.829 0.067 875.23
   angles 0 37.792 0
   placement none
  }
  {
-  coords 850.808 -0.44 872.921
+  coords 850.808 0.053 872.921
   angles 0 37.792 0
   placement none
  }
  {
-  coords 852.853 -0.496 871.335
+  coords 852.853 -0.003 871.335
   angles 0 37.792 0
   placement none
  }
  {
-  coords 888.613 -0.324 918.101
+  coords 888.613 -0.007 918.101
   angles 0 37.792 0
   placement none
  }
  {
-  coords 887.956 -0.305 918.612
+  coords 887.956 0.012 918.612
   angles 0 37.792 0
   placement none
  }
@@ -6338,7 +6350,7 @@ $grp SCR_DestructibleBuildingEntity : "{8597237EA3C59701}Prefabs/Structures/Hous
  }
 }
 SCR_DestructibleEntity : "{85D69C0818E79907}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_d.et" {
- coords 884.96 -0.187 920.952
+ coords 884.96 0.13 920.952
  angles 0 37.699 0
  placement none
 }
@@ -13385,6 +13397,10 @@ $grp GenericEntity : "{B350840088390760}Prefabs/Compositions/Misc/SubComposition
   coords 441.525 106.469 687.342
   angles 0 3.227 0
  }
+ {
+  coords 878.656 104.931 778.256
+  angles 0 -55.116 -1.411
+ }
 }
 DecalEntity : "{B38FBA56FA69E392}Prefabs/Decals/Fluids/Decal_OilStain_01_large.et" {
  coords 303.271 0 612.039
@@ -13849,11 +13865,11 @@ GenericEntity : "{BE16EE8FAA315FE2}Prefabs/Props/Military/Sandbags/Sandbag_01_lo
 $grp GenericEntity : "{BE7B5BAFE1A16A50}Prefabs/Props/Military/Fortification/BarbedTape_Coil.et" {
  {
   coords 876.874 2.599 776.595
-  angles 0 3.134 0
+  angles 0 23.903 0
  }
  {
-  coords 878.201 2.541 776.717
-  angles 0 34.545 0
+  coords 878.158 2.55 776.239
+  angles 0 55.314 0
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{BEF9077AF9F93AE7}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01/House_Mountain_E_1I01.et" {
@@ -14261,9 +14277,15 @@ GenericEntity : "{C9A6A89E58BE2A61}Prefabs/Props/Civilian/BenchStreet/StreetBenc
  coords 357.758 106.948 613.602
  angles 0 90.154 0
 }
-GenericEntity : "{C9BE1A2755380F2B}Prefabs/Structures/BuildingParts/Eletrical/BreakerBox_02/BreakerBox_02.et" {
- coords 629.648 105.437 1011.112
- angles 0 132.852 0
+$grp GenericEntity : "{C9BE1A2755380F2B}Prefabs/Structures/BuildingParts/Eletrical/BreakerBox_02/BreakerBox_02.et" {
+ {
+  coords 629.648 105.437 1011.112
+  angles 0 132.852 0
+ }
+ {
+  coords 896.571 104.994 780.163
+  angles 0 -144.442 0
+ }
 }
 $grp DecalEntity : "{CA8AB522F7C90A28}Prefabs/Decals/Miscellaneous/CigarButts_01.et" {
  {
@@ -18398,7 +18420,7 @@ GameEntity : "{FE23E1E5C6CB2E83}Prefabs/Props/Civilian/Ladders/Ladder Roof acees
  angles 0 -59.263 0
 }
 SCR_DestructibleEntity : "{FE657FA3BEE51C58}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_4m_v3.et" {
- coords 881.987 -0.176 923.314
+ coords 881.987 0.141 923.314
  angles 0 38.251 0
  placement none
 }
