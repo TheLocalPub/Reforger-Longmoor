@@ -1,0 +1,266 @@
+$grp GameEnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/ProbeEnvCave_base.et" {
+ {
+  coords 769.364 100.726 716.987
+  Priority 0
+  InteriorProbe 0
+  {
+   $grp ProbeVolume : "{CD5BB05FBEEBAE01}Prefabs/Structures/Core/ProbeVolume_Base.et" {
+    {
+     coords 0.054 -2.92 -0.103
+     angles -1.407 -0.421 -1.185
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 5.835 9.816 10
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords -0.629 1.87 0.007
+     angles -0.01 -0.426 -0.217
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.326 0.703 1.341
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 1.354 -1.444 17.894
+     angles -0.002 1.798 -0.217
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 8.644 5.394 35.721
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 9.388 -1.418 45.506
+     angles -0.936 21.851 -2.091
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 8.644 5.39 35.721
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 7.672 1.195 44.058
+     angles 0.075 22.384 -0.204
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.326 0.703 1.341
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 25.906 -1.754 68.819
+     angles 0.132 39.859 -0.172
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 8.644 5.623 44.816
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 37.694 1.068 81.921
+     angles 0.129 38.547 -0.175
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.357 0.703 1.341
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 66.263 -1.851 103.366
+     angles 0.177 56.875 -0.126
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 19.404 5.131 63.747
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 69.599 0.711 107.969
+     angles 0.107 31.805 -0.189
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.455 0.813 1.458
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 76.105 -2.131 144.531
+     angles -0.743 -7.357 -0.263
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 19.404 5.131 69.799
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 115.008 -3.648 248.41
+     angles -0.76 0.385 -0.211
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 94.121 5.315 140.33
+     }
+     BoxReflection 1
+     BoxLerp 0.5
+     EV -1
+    }
+    {
+     coords 84.943 -2.163 187.091
+     angles -0.758 0.885 -0.218
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 5.677 5.756 7.559
+     }
+     BoxReflection 1
+     BoxLerp 1.65
+     EV 2.5
+    }
+    {
+     coords 110.645 -2.315 151.585
+     angles -0.194 48.896 -0.765
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 19.404 5.131 74.967
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 145.849 -2.341 160.812
+     angles -4.062 -0.89 -0.347
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 19.404 5.131 91.128
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 142.732 -8.896 100.233
+     angles 0.11 22.194 -1.914
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 33.68 24.35 33
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 145.647 3.446 112.031
+     angles 0.053 16.502 -0.211
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.411 0.813 1.446
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 100.005 -2.621 60.595
+     angles 0.585 36.66 -0.029
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 33.916 10.282 21.838
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 55.392 -6.579 94.85
+     angles 0.585 36.66 -5.01
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 80.012 11.049 20.235
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 78.461 -0.888 29.826
+     angles -2.435 -58.962 0.85
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 54.334 9.703 10.781
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 81.526 3.684 40.072
+     angles 0.084 25.119 -0.2
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.485 0.913 1.529
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 1.885 -0.638 -15.679
+     angles -1.407 -0.421 -1.185
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 9.346 4.407 24.168
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 13.6 -0.229 -34.871
+     angles -1.838 -38.251 -0.073
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 16.039 4.252 34.317
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 33.44 0.242 -40.207
+     angles -0.472 -115.645 1.778
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 18.32 6.636 40.564
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 45.211 0.816 -18.775
+     angles -2.231 -52.382 -0.517
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 65.442 5.68 9
+     }
+     BoxReflection 1
+     BoxLerp 0
+     EV -1
+    }
+    {
+     coords 49.696 3.654 -7.957
+     angles 0.126 37.792 -0.177
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.462 0.851 1.42
+     }
+     BoxReflection 1
+     EV -1
+    }
+    {
+     coords 47.297 3.821 -40.334
+     angles 0.205 72.966 -0.072
+     Box BoundingVolume "{69C8A01690CF9FC8}" {
+      Size 1.462 0.851 1.42
+     }
+     BoxReflection 1
+     EV -1
+    }
+   }
+  }
+ }
+ {
+  coords 769.364 100.726 716.987
+  NearPlane 0.01
+  FarPlane 1000
+  InteriorProbe 0
+  PriorityProbe 1
+  {
+   ProbeVolume : "{CD5BB05FBEEBAE01}Prefabs/Structures/Core/ProbeVolume_Base.et" {
+    coords 109.435 1.103 50.545
+    angles -0.122 36.661 -0.029
+    Box BoundingVolume "{69C8A01690CF9FC8}" {
+     Size 5.799 3.056 5.21
+    }
+    BoxReflection 1
+    EV -1
+   }
+  }
+ }
+}

@@ -1,0 +1,55 @@
+PolylineShapeEntity {
+ coords 765.088 100.01 705.956
+ angles -0.5 36.23 0
+ Points {
+  ShapePoint "{69BAB9A8D1D84CD0}" {
+   Position 130.026 -0.327 -43.077
+   Data {
+    SplinePointData SplinePointData {
+     InTangent 0.376 0 0.204
+     OutTangent 0.275 0 0.15
+    }
+   }
+  }
+  ShapePoint "{69BAB9A8C92ADFB3}" {
+   Position 143.068 -0.334 497.77
+   Data {
+    SplinePointData SplinePointData {
+     InTangent 0.002 0 0.047
+     OutTangent 0.001 0 0.029
+    }
+   }
+  }
+  ShapePoint "{69BAB9A8C30B21C5}" {
+   Position -149.161 -1.307 470.033
+   Data {
+    SplinePointData SplinePointData {
+     InTangent 0.533 0 0.29
+     OutTangent 0.81 0 0.441
+    }
+   }
+  }
+  ShapePoint "{69BAB9A8C4CF8054}" {
+   Position -130.862 -0.021 -32.851
+   Data {
+    SplinePointData SplinePointData {
+     InTangent -0.004 0 -0.091
+     OutTangent -0.027 0 -0.661
+    }
+   }
+  }
+ }
+ IsClosed 1
+ {
+  LakeGeneratorEntity : "{0263A3344F9DCAAD}Prefabs/WEGenerators/Water/Lake/LG_DirtyDrainage_01.et" {
+   coords 0 0 0
+   angles -0.162 0 0
+   m_MaterialName "{B934FE35291FD406}Terrains/Common/Water/Pond/DirtyDrainage_01_Longmoor.emat"
+   m_bReversePointOrder 0
+   m_bFlattenByBottomPlane 0
+   m_fMinDepth 2
+   m_bShoreWetness 0
+   m_bIsLake 0
+  }
+ }
+}
