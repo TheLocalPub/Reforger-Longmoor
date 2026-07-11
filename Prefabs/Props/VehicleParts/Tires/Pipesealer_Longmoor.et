@@ -1,0 +1,18 @@
+GenericEntity : "{C8806310DC354E8B}Prefabs/Props/VehicleParts/Tires/Tire_BTR70.et" {
+ ID "55DAD3EB7B0553B5"
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Materials {
+    MaterialAssignClass "{69BAB9AC62E08D63}" {
+     SourceMaterial "Color_palette"
+     AssignedMaterial "{6254BD00E417A0DB}Assets/Structures/Walls/Concrete/Data/ConcreteRetainingWall_02.emat"
+    }
+    MaterialAssignClass "{69BAB9AC62E08D70}" {
+     SourceMaterial "Tire_BTR70"
+     AssignedMaterial "{6254BD00E417A0DB}Assets/Structures/Walls/Concrete/Data/ConcreteRetainingWall_02.emat"
+    }
+   }
+  }
+ }
+ scale 4.2
+}

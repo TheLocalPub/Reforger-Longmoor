@@ -1,0 +1,9 @@
+MatPBRMulti : "{D4D99729940B0FA3}Assets/Structures/Walls/Concrete/Data/ConcreteRetainingWall_02_01.emat" {
+ Color 0 0 0 1
+ Specular 0 0 0 1
+ GlobalMCRMap 
+ MaskMap 
+ VFXMap 
+ Mask_4 
+ BCR_3 
+}

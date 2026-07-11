@@ -1,0 +1,94 @@
+GenericEntity : "{03EA0C4E53519E85}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num5.et" {
+ coords 805.663 100.065 800.328
+ angles 89.61 134.507 -174.083
+ scale 0.1
+}
+GenericEntity : "{15D672DE054C03C5}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num8.et" {
+ coords 820.566 103.05 707.821
+ angles -89.749 -51.239 -0.652
+ scale 0.1
+}
+GenericEntity : "{3A11F5367AB523AB}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Vole_V1.et" {
+ coords 790.595 100.983 678.224
+ angles 0.475 176.057 0
+}
+GenericEntity : "{3EDE2976263D17B2}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num2.et" {
+ coords 847.027 98.415 905.432
+ angles 89.559 36.82 115.579
+ scale 0.1
+}
+$grp GenericEntity : "{528A1D969AF9989C}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num1.et" {
+ {
+  coords 905.504 98.491 908.425
+  angles 89.298 9.434 87.762
+  scale 0.1
+ }
+ {
+  coords 818.703 101.275 676.443
+  angles 88.807 -24.441 173.292
+  scale 0.1
+ }
+}
+$grp GenericEntity : "{5ACA2B2C63CCD7C3}Prefabs/Structures/BuildingParts/Misc/VentCover_01_Circular_Rusty.et" {
+ {
+  coords 916.906 103.543 828.477
+  angles 0 -73.558 0
+ }
+ {
+  coords 840.628 100.72 823.947
+  angles 0 -58.698 0
+ }
+}
+GenericEntity : "{6FBE38AEEF9511AB}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num6.et" {
+ coords 852.622 102.883 756.23
+ angles 89.454 114.101 -0.384
+ scale 0.1
+}
+GenericEntity : "{8A227457E37086C0}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num7.et" {
+ coords 778.81 100.378 760.292
+ angles 88.713 110.891 -3.181
+ scale 0.1
+}
+GenericEntity : "{A46242F569F68E38}Prefabs/Structures/BuildingParts/Graffiti/Graffiti_Anarchy_V1.et" {
+ coords 788.965 100.914 678
+ angles 1.383 170.856 0.013
+}
+$grp DecalEntity : "{A8F7CB83AA7FE99B}Prefabs/Decals/Dirt/Decal_Dirt_Footprints_02.et" {
+ {
+  coords 852.365 0.029 757.256
+  angles -90 -180 -180
+  TerrainOnly 0
+ }
+ {
+  coords 852.022 -0.026 755.809
+  angles -90 180 26.224
+  TerrainOnly 0
+ }
+}
+GenericEntity : "{B716516F961C0FF7}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num0.et" {
+ coords 818.454 101.268 676.381
+ angles -87.043 170.538 173.273
+ scale 0.1
+}
+DecalEntity : "{C0FAEF93F8DB08F5}Prefabs/Decals/Dirt/Decal_Dirt_Patch_07.et" {
+ coords 851.21 104.874 757.058
+ angles -90 0 0
+ scale 2
+ FarPlane 0.95
+ TerrainOnly 0
+}
+GenericEntity : "{DB42658F2AD880D9}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num3.et" {
+ coords 916.89 102.783 828.459
+ angles 87.318 15.525 -90.26
+ scale 0.1
+}
+GenericEntity : "{E67640B75FB409EE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num4.et" {
+ coords 840.617 99.994 823.942
+ angles 89.518 125.012 3.228
+ scale 0.1
+}
+GenericEntity : "{F04A3E2709A994AE}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num9.et" {
+ coords 770.643 101.186 716.97
+ angles 89.883 91.309 1.582
+ scale 0.1
+}
