@@ -3298,6 +3298,11 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
   scale 1.25
  }
 }
+SCR_DestructibleBuildingEntity : "{5E6FBCA68ABA8D44}Prefabs/Editor/Plane_01/GridPlane_100x100_Longmoor.et" {
+ coords 958.027 76.551 708.58
+ scale 4
+ IsBuilding 0
+}
 SCR_DestructibleEntity : "{60D0FF15D5DD2CCE}Prefabs/Structures/Industrial/Pipelines/ProductPipeline_01/ProductPipeline_USSR_01_end.et" {
  coords 811.201 101.599 682.883
  angles -89.57 165.589 -90

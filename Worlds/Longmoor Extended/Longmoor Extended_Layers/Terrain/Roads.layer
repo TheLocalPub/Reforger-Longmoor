@@ -1622,6 +1622,8 @@ $grp SplineShapeEntity {
       IsClosedSpline 0
       Type "Road Trail"
       Width 8.85
+      BeginningPiece none
+      EndPiece none
      }
     }
    }
