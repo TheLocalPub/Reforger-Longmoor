@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{6E871509A1B58869}Worlds/Longmoor Extended/LongmoorTrainingArea/LongmoorTrainingArea.terr"
+ Name "{6E871509A1B58869}Worlds/LongmoorTrainingArea/LongmoorTrainingArea/LongmoorTrainingArea.terr"
  Configurations {
   TerrainResourceClass PC {
    BlocksPerTile 4
