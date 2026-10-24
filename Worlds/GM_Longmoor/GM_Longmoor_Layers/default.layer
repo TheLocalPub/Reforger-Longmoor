@@ -1,3 +1,8 @@
+SCR_MapEntity MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
+ coords 1027.479 106.902 500.096
+ "Map Geometry Data" "{F467A5DBB0ABAA5C}Terrains/GM_Longmoor.topo"
+ "Satellite background image" "{4C771BBBEB5A2FA6}Terrains/GM_Longmoor.edds"
+}
 PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
  coords 1024 106.156 498
 }

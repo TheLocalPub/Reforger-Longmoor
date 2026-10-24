@@ -535,11 +535,6 @@ $grp SCR_DestructibleBuildingEntity : "{00EF1FFDCF60838E}Prefabs/Infrastructure/
   scale 0.568
  }
  {
-  components {
-   MeshObject "{5EEED01DD10356D4}" {
-    InheritSkeleton 1
-   }
-  }
   coords 770.551 1.359 688.194
   angles 0 -55.28 0
   scale 0.568
