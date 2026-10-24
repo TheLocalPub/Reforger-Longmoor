@@ -1,3 +1,8 @@
+SCR_DestructibleBuildingEntity {
+ coords 958.027 76.551 708.58
+ scale 4
+ IsBuilding 0
+}
 Tree : "{054B89DDC0DBA1C2}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_corner_04.et" {
  coords 851.92 -2.273 830.408
  angles -4.034 -56.334 0
@@ -3297,11 +3302,6 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
   angles 0 123.764 0
   scale 1.25
  }
-}
-SCR_DestructibleBuildingEntity : "{5E6FBCA68ABA8D44}Prefabs/Editor/Plane_01/GridPlane_100x100_Longmoor.et" {
- coords 958.027 76.551 708.58
- scale 4
- IsBuilding 0
 }
 SCR_DestructibleEntity : "{60D0FF15D5DD2CCE}Prefabs/Structures/Industrial/Pipelines/ProductPipeline_01/ProductPipeline_USSR_01_end.et" {
  coords 811.201 101.599 682.883
