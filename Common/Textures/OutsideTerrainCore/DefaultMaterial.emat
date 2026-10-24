@@ -9,6 +9,5 @@ MatCommon {
  BlendMode None
  AlbedoMap "{47CCF908BA2CDB21}Common/Textures/OutsideTerrainCore/OOBGrass.edds"
  DisablePrexposure 1
- LightStart 2
- LightEnd 2
+ LightEnd -2
 }

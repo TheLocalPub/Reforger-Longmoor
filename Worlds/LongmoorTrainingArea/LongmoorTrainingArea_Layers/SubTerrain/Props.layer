@@ -1,8 +1,3 @@
-SCR_DestructibleBuildingEntity {
- coords 958.027 76.551 708.58
- scale 4
- IsBuilding 0
-}
 Tree : "{054B89DDC0DBA1C2}Prefabs/Vegetation/Plant/Hedera_Helix/p_hedera_helix_corner_04.et" {
  coords 851.92 -2.273 830.408
  angles -4.034 -56.334 0
@@ -31,6 +26,7 @@ GenericEntity : "{176BCBF851AAA88F}Prefabs/Props/Civilian/Lamps/Lamp Industrial 
 }
 $grp SCR_DestructibleBuildingEntity : "{1EBCCFE4C5D09AEE}Prefabs/Structures/Infrastructure/Naval/Piers/90 Pier01.et" {
  {
+  Flags 0x40 0
   coords 940.62 90.754 909.786
   angles -0.071 -1.344 -3.039
  }
@@ -47,6 +43,7 @@ $grp SCR_DestructibleBuildingEntity : "{1EBCCFE4C5D09AEE}Prefabs/Structures/Infr
     ClutterOccluder 0
    }
   }
+  Flags 0x40 0
   coords 910.778 90.966 908.034
  }
  {
@@ -61,6 +58,7 @@ $grp SCR_DestructibleBuildingEntity : "{1EBCCFE4C5D09AEE}Prefabs/Structures/Infr
     }
    }
   }
+  Flags 0x40 0
   coords 846.873 92.207 834.862
  }
 }
@@ -145,6 +143,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 769.247 100.688 713.129
   angles 81.124 96.444 -87.377
   scale 4.2
@@ -156,6 +155,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 769.459 100.602 720.644
   angles 80.786 -83.791 -87.615
  }
@@ -166,6 +166,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 794.614 100.537 674.165
   angles 88.606 -157.622 -74.106
  }
@@ -176,6 +177,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 793.567 100.661 677.451
   angles -72.861 -47.607 88.704
  }
@@ -186,6 +188,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 785.674 100.548 677.273
   angles -1.867 -152.958 -90.113
  }
@@ -196,6 +199,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 816.1 100.831 686.709
   angles 78.488 172.775 -179.271
   scale 4.2
@@ -207,6 +211,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 812.979 102.716 697.73
   angles 77.51 162.268 -168.854
   scale 4.01
@@ -218,6 +223,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 810.063 102.433 696.919
   angles 84.766 131.066 -86.669
   scale 3.95
@@ -229,6 +235,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 812.479 102.478 700.05
   angles 88.984 -49.552 92.534
   scale 4
@@ -240,6 +247,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 861.022 101.917 771.654
   angles 85.206 25.674 168.997
   scale 3.95
@@ -251,6 +259,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 852.785 100.836 785.315
   angles 79.36 -47.334 4.813
   scale 3.95
@@ -262,6 +271,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 829.433 98.823 812.125
   angles 88.886 75.154 97.454
   scale 3.95
@@ -273,6 +283,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 826.622 99.027 816.266
   angles 87.213 153.196 86.778
   scale 3.95
@@ -284,6 +295,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 835.814 99.499 819.088
   angles -2.457 -56.942 -91.026
   scale 3.95
@@ -295,6 +307,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 852.785 100.836 785.315
   angles 79.36 -47.334 4.813
   scale 3.95
@@ -306,6 +319,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 852.785 100.836 785.315
   angles 79.36 -47.334 4.813
   scale 3.95
@@ -317,6 +331,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 852.785 100.836 785.315
   angles 79.36 -47.334 4.813
   scale 3.95
@@ -328,6 +343,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 882.786 101.404 777.198
   angles 84.269 35.96 -1.466
   scale 3.95
@@ -339,6 +355,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 904.203 98.989 805.423
   angles 88.656 -45.515 -81.46
   scale 4.2
@@ -350,6 +367,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 904.203 98.989 805.423
   angles 88.656 -45.515 -81.46
   scale 4.2
@@ -361,6 +379,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 914.4 102.307 824.91
   angles 88.656 -45.515 -69.744
   scale 4.2
@@ -372,6 +391,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 842.314 99.496 828.691
   angles 89.339 -129.802 -167.22
   scale 3.95
@@ -383,6 +403,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 849.667 99.771 840.298
   angles -2.53 -57.195 -85.253
   scale 3.95
@@ -394,6 +415,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 844.039 99.838 842.656
   angles -90 125.153 -119.041
   scale 3.95
@@ -405,6 +427,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 847.631 98.142 901.49
   angles 81.124 105.284 -87.377
   scale 4.2
@@ -416,6 +439,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 848.995 98.056 908.883
   angles 80.786 -74.951 -87.615
  }
@@ -426,6 +450,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 873.79 97.977 949.141
   angles 89.972 23.943 -97.401
   scale 4.2
@@ -437,6 +462,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 931.054 97.38 910.083
   angles 85.028 -3.175 -89.852
   scale 4.2
@@ -448,6 +474,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 913.005 97.952 909.206
   angles 42.734 178.083 90.012
   scale 4.2
@@ -459,6 +486,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 909.885 97.85 903.192
   angles -25.886 70.648 -89.977
   scale 4.2
@@ -470,6 +498,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 906.346 98.138 904.851
   angles 85.052 25.44 0.01
   scale 4.2
@@ -481,6 +510,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 906.371 97.942 912.042
   angles 79.427 59.578 90.047
   scale 4.2
@@ -492,6 +522,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 873.351 98.055 953.782
   angles 80.786 -53.904 -87.615
  }
@@ -502,6 +533,7 @@ $grp GenericEntity : "{42DEC13077AF2DB8}Prefabs/Props/VehicleParts/Tires/Pipesea
     ModelGeometry 0
    }
   }
+  Flags 0x40 0
   coords 869.423 98.141 947.372
   angles 81.124 126.331 -87.377
   scale 4.2
@@ -614,6 +646,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.221 99.352 712.995
   angles 0 -86.123 0
   scale 1.25
@@ -625,6 +658,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 769.091 99.352 707.759
   angles 0 -92.275 0
   scale 1.25
@@ -636,6 +670,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 769.236 99.352 704.969
   angles 0 -93.938 0
   scale 1.25
@@ -647,6 +682,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 769.095 99.352 710.418
   angles 0 -87.965 0
   scale 1.25
@@ -657,6 +693,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.619 99.352 726.401
   angles 0 89.255 0
   scale 1.25
@@ -667,6 +704,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.485 99.352 720.805
   angles 0 93.877 0
   scale 1.25
@@ -677,6 +715,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.61 99.352 723.588
   angles 0 91.172 0
   scale 1.25
@@ -687,6 +726,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.585 99.352 729.258
   angles 0 89.255 0
   scale 1.25
@@ -697,6 +737,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.563 99.352 732.124
   angles 0 90.193 0
   scale 1.25
@@ -707,6 +748,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.614 99.352 734.992
   angles 0 92.018 0
   scale 1.25
@@ -717,6 +759,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 769.768 99.352 737.748
   angles 0 94.553 0
   scale 1.25
@@ -727,6 +770,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 770.076 99.352 740.5
   angles 0 98.166 0
   scale 1.25
@@ -737,6 +781,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 770.554 99.352 743.261
   angles 0 101.768 0
   scale 1.25
@@ -747,6 +792,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 771.422 99.4 746.953
   angles 0 -74.598 0
   scale 1.25
@@ -758,6 +804,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 769.523 99.352 702.133
   angles 0 -98.132 0
   scale 1.25
@@ -769,6 +816,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 770.034 99.352 699.338
   angles 0 -102.762 0
   scale 1.25
@@ -780,6 +828,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 770.62 99.352 696.998
   angles 0 -105.568 0
   scale 1.25
@@ -791,6 +840,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 771.406 99.352 694.442
   angles 0 -108.751 0
   scale 1.25
@@ -802,6 +852,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 772.191 99.352 692.269
   angles 0 -111.073 0
   scale 1.25
@@ -813,6 +864,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 773.337 99.352 689.692
   angles 0 -117.154 0
   scale 1.25
@@ -824,6 +876,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 774.691 99.352 687.396
   angles 0 -124.672 0
   scale 1.25
@@ -835,6 +888,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 776.128 99.352 685.424
   angles 0 -127.904 0
   scale 1.25
@@ -846,6 +900,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 777.815 99.352 683.403
   angles 0 -132.118 0
   scale 1.25
@@ -857,6 +912,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 779.839 99.352 681.343
   angles 0 -136.588 0
   scale 1.25
@@ -868,6 +924,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 781.938 99.352 679.596
   angles 0 -143.432 0
   scale 1.25
@@ -879,6 +936,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 784.28 99.352 678.031
   angles 0 -149.473 0
   scale 1.25
@@ -890,6 +948,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 786.776 99.352 676.705
   angles 0 -155.096 0
   scale 1.25
@@ -901,6 +960,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 794.705 99.352 674.244
   angles 0 -170.582 0
   scale 1.25
@@ -912,6 +972,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 797.529 99.352 673.861
   angles 0 -174.404 0
   scale 1.25
@@ -923,6 +984,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 800.315 99.352 673.697
   angles 0 -179.02 0
   scale 1.25
@@ -934,6 +996,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 803.114 99.352 673.802
   angles 0 174.254 0
   scale 1.25
@@ -945,6 +1008,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 805.806 99.352 674.181
   angles 0 169.28 0
   scale 1.25
@@ -956,6 +1020,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 808.521 99.352 674.831
   angles 0 163.488 0
   scale 1.25
@@ -967,6 +1032,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 810.036 99.352 675.297
   angles 0 162.161 0
   scale 1.25
@@ -977,6 +1043,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 823.825 101.066 713.737
   angles 0.041 -50.808 6.292
   scale 1.25
@@ -987,6 +1054,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 825.513 100.635 715.823
   angles 0.041 -50.808 11.6
   scale 1.25
@@ -997,6 +1065,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 827.243 100.071 717.958
   angles 0.041 -50.808 11.6
   scale 1.25
@@ -1007,6 +1076,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 829.063 99.581 720.19
   angles 0.041 -50.808 8.092
   scale 1.25
@@ -1017,6 +1087,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 830.867 99.175 722.402
   angles 0.041 -50.808 8.092
   scale 1.25
@@ -1027,6 +1098,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 832.701 98.891 724.651
   angles 0.041 -50.808 3.568
   scale 1.25
@@ -1037,6 +1109,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 834.553 98.802 726.923
   angles 0.041 -50.808 0
   scale 1.25
@@ -1047,6 +1120,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 815.144 101.218 703.392
   angles 0 -50.766 0
   scale 1.25
@@ -1057,6 +1131,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 813.413 101.221 701.227
   angles 0 -51.983 0
   scale 1.25
@@ -1067,6 +1142,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 809.899 101.221 696.719
   angles 0 -52.069 0
   scale 1.25
@@ -1077,6 +1153,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 808.329 101.221 694.74
   angles 0 -50.997 0
   scale 1.25
@@ -1087,6 +1164,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 806.738 101.221 692.808
   angles 0 -50.09 0
   scale 1.25
@@ -1097,6 +1175,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 804.848 101.221 690.598
   angles 0 -49.263 0
   scale 1.25
@@ -1107,6 +1186,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 802.989 101.221 688.434
   angles 0 -49.13 0
   scale 1.25
@@ -1117,6 +1197,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 801.204 101.112 686.37
   angles 0 -49.13 -4.673
   scale 1.25
@@ -1127,6 +1208,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 799.348 100.83 684.225
   angles 0 -49.13 -6.38
   scale 1.25
@@ -1137,6 +1219,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 797.539 100.438 682.136
   angles 0 -49.13 -9.845
   scale 1.25
@@ -1147,6 +1230,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 795.728 99.892 680.042
   angles 0 -49.13 -12.862
   scale 1.25
@@ -1157,6 +1241,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 793.862 99.357 677.886
   angles 0 -49.13 -7.912
   scale 1.25
@@ -1167,6 +1252,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 809.899 101.221 696.719
   angles 0 -52.069 0
   scale 1.25
@@ -1177,6 +1263,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 815.929 99.536 686.86
   angles -8.547 80.302 12.042
   scale 1.25
@@ -1187,6 +1274,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 813.532 101.218 696.678
   angles 0.397 64.795 8.095
   scale 1.25
@@ -1197,6 +1285,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 814.541 100.836 694.191
   angles -0.447 70.72 8.093
   scale 1.25
@@ -1207,6 +1296,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 815.226 100.475 691.703
   angles -1.352 77.115 7.989
   scale 1.25
@@ -1217,6 +1307,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 815.517 100.085 689.465
   angles -8.547 78.464 12.04
   scale 1.25
@@ -1227,6 +1318,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 774.691 98.856 754.551
   angles 0.134 -64.841 6.558
   scale 1.25
@@ -1237,6 +1329,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 773.468 99.187 751.947
   angles 0.134 -64.841 6.558
   scale 1.25
@@ -1247,6 +1340,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 772.362 99.375 749.543
   angles 0.211 -65.991 1.182
   scale 1.25
@@ -1257,6 +1351,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 770.921 99.376 745.006
   angles 0.007 102.938 1.308
   scale 1.25
@@ -1267,6 +1362,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 780.412 98.647 766.637
   angles -0.053 116.971 -2.141
   scale 1.25
@@ -1277,6 +1373,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 781.798 98.582 769.218
   angles 0.034 119.31 -0.218
   scale 1.25
@@ -1287,6 +1384,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 783.295 98.572 771.433
   angles 0.07 128.881 -0.209
   scale 1.25
@@ -1297,6 +1395,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 785.119 98.56 773.696
   angles 0.07 128.881 -0.209
   scale 1.25
@@ -1307,6 +1406,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 836.258 98.802 729.123
   angles 0.041 -53.338 -0.002
   scale 1.25
@@ -1317,6 +1417,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 837.916 98.802 731.469
   angles 0.041 -56 -0.004
   scale 1.25
@@ -1327,6 +1428,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 839.395 98.802 733.752
   angles 0.041 -57.938 -0.005
   scale 1.25
@@ -1337,6 +1439,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 840.713 98.802 735.983
   angles 0.041 -60.566 -0.007
   scale 1.25
@@ -1347,6 +1450,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 842.104 98.863 738.486
   angles 0.024 -61.484 -2.539
   scale 1.25
@@ -1357,6 +1461,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 848.385 101.085 750.97
   angles -0.134 -61.7 -8.762
   scale 1.25
@@ -1367,6 +1472,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 847.071 100.593 748.599
   angles 0.259 -59.666 -12.44
   scale 1.25
@@ -1377,6 +1483,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 843.402 99.126 741.012
   angles -0.075 -63.717 -7.517
   scale 1.25
@@ -1387,6 +1494,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 844.577 99.592 743.561
   angles -0.543 -66.578 -10.506
   scale 1.25
@@ -1397,6 +1505,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.745 100.065 746.104
   angles -0.699 -64.443 -8.681
   scale 1.25
@@ -1407,6 +1516,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 861.006 100.694 771.589
   angles 0.061 126.56 -5.382
   scale 1.25
@@ -1417,6 +1527,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 854.633 101.263 762.622
   angles 0.042 121.419 -0.216
   scale 1.25
@@ -1427,6 +1538,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 857.586 101.127 766.976
   angles 0.061 126.56 -3.263
   scale 1.25
@@ -1437,6 +1549,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 859.299 100.942 769.287
   angles 0.061 126.56 -4.357
   scale 1.25
@@ -1447,6 +1560,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 856.042 101.234 764.797
   angles 0.053 124.408 -1.212
   scale 1.25
@@ -1457,6 +1571,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 798.65 98.551 790.153
   angles 0 131.594 0
   scale 1.25
@@ -1467,6 +1582,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 791.092 98.551 781.382
   angles 0 128.841 0
   scale 1.25
@@ -1477,6 +1593,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 796.712 98.551 787.992
   angles 0 131.987 0
   scale 1.25
@@ -1487,6 +1604,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 792.906 98.551 783.642
   angles 0 128.873 0
   scale 1.25
@@ -1497,6 +1615,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 786.601 98.551 775.611
   angles 0 126.222 0
   scale 1.25
@@ -1507,6 +1626,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 802.169 98.551 794.245
   angles 0 130.298 0
   scale 1.25
@@ -1517,6 +1637,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 794.767 98.551 785.831
   angles 0 131.987 0
   scale 1.25
@@ -1527,6 +1648,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 787.87 98.551 777.312
   angles 0 127.364 0
   scale 1.25
@@ -1537,6 +1659,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 800.538 98.551 792.322
   angles 0 130.298 0
   scale 1.25
@@ -1547,6 +1670,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 789.346 98.551 779.202
   angles 0 128.828 0
   scale 1.25
@@ -1557,6 +1681,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 810.923 98.456 804.445
   angles 0.112 130.892 -4.263
   scale 1.25
@@ -1567,6 +1692,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 812.778 98.225 806.546
   angles 0.256 132.295 -5.051
   scale 1.25
@@ -1577,6 +1703,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 814.755 98.041 808.602
   angles 0.754 135.535 -1.901
   scale 1.25
@@ -1587,6 +1714,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 852.978 99.64 785.134
   angles 0.086 -142.367 9.926
   scale 1.25
@@ -1597,6 +1725,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 850.703 99.137 786.887
   angles 0.086 -142.367 9.926
   scale 1.25
@@ -1607,6 +1736,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 848.42 98.633 788.646
   angles 0.086 -142.367 9.926
   scale 1.25
@@ -1617,6 +1747,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.192 98.193 790.363
   angles 0.086 -142.367 8.009
   scale 1.25
@@ -1627,6 +1758,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 843.971 97.84 792.074
   angles 0.086 -142.367 6.502
   scale 1.25
@@ -1637,6 +1769,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 841.703 97.624 793.896
   angles -0.013 -139.925 2.328
   scale 1.25
@@ -1647,6 +1780,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 839.734 97.582 795.616
   angles 0.086 -137.855 0.007
   scale 1.25
@@ -1657,6 +1791,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 816.828 97.942 810.405
   angles 1.016 142.654 -2.515
   scale 1.25
@@ -1667,6 +1802,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 837.741 97.581 797.58
   angles 0.085 -133.31 0
   scale 1.25
@@ -1677,6 +1813,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 835.956 97.581 799.638
   angles 0.085 -129.009 0.006
   scale 1.25
@@ -1687,6 +1824,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 834.277 97.581 801.906
   angles 0.084 -124.385 0.013
   scale 1.25
@@ -1697,6 +1835,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 832.821 97.58 804.261
   angles 0.083 -119.443 0.02
   scale 1.25
@@ -1707,6 +1846,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 835.719 98.255 818.967
   angles 0.021 -57.794 0.082
   scale 1.25
@@ -1717,6 +1857,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 818.654 97.843 811.744
   angles 1.111 144.843 -2.474
   scale 1.25
@@ -1727,6 +1868,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 831.639 97.579 806.731
   angles 0.08 -112.525 0.03
   scale 1.25
@@ -1737,6 +1879,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 820.75 97.781 813.148
   angles 1.233 147.688 0
   scale 1.25
@@ -1747,6 +1890,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 823.21 97.783 814.585
   angles 1.23 151.419 0.081
   scale 1.25
@@ -1757,6 +1901,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 825.765 97.789 815.867
   angles 1.222 155.294 0.164
   scale 1.25
@@ -1767,6 +1912,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 830.642 97.577 809.136
   angles 0.08 -112.525 0.03
   scale 1.25
@@ -1777,6 +1923,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 829.899 97.576 810.928
   angles 0.08 -112.525 0.03
   scale 1.25
@@ -1787,6 +1934,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 852.978 99.64 785.134
   angles 0.086 -142.367 9.926
   scale 1.25
@@ -1797,6 +1945,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 852.978 99.64 785.134
   angles 0.086 -142.367 9.926
   scale 1.25
@@ -1807,6 +1956,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 882.669 100.092 777.057
   angles -0.257 -52.785 9.586
   scale 1.25
@@ -1817,6 +1967,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 884.172 99.673 779.033
   angles -0.257 -52.785 9.586
   scale 1.25
@@ -1827,6 +1978,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 885.84 99.208 781.226
   angles -0.257 -52.785 9.586
   scale 1.25
@@ -1837,6 +1989,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 887.541 98.733 783.462
   angles -0.257 -52.785 9.586
   scale 1.25
@@ -1847,6 +2000,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 889.295 98.293 785.768
   angles -0.257 -52.785 7.992
   scale 1.25
@@ -1857,6 +2011,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 890.989 97.993 787.997
   angles -0.257 -52.785 4.373
   scale 1.25
@@ -1867,6 +2022,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 892.758 97.829 790.325
   angles -0.257 -52.785 2.345
   scale 1.25
@@ -1877,6 +2033,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 894.504 97.778 792.611
   angles -0.257 -52.785 0
   scale 1.25
@@ -1887,6 +2044,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 896.256 97.778 794.918
   angles -0.257 -52.785 0
   scale 1.25
@@ -1897,6 +2055,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 898.005 97.778 797.221
   angles -0.257 -52.785 0
   scale 1.25
@@ -1907,6 +2066,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 899.752 97.778 799.521
   angles -0.257 -52.785 0
   scale 1.25
@@ -1917,6 +2077,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 901.507 97.778 801.832
   angles -0.257 -52.785 0
   scale 1.25
@@ -1927,6 +2088,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 903.225 97.778 804.094
   angles -0.257 -52.785 0
   scale 1.25
@@ -1937,6 +2099,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 849.505 98.548 840.072
   angles 0.021 -57.794 5.85
   scale 1.25
@@ -1947,6 +2110,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.898 96.455 886.327
   angles 1.228 -95.208 1.569
   scale 1.25
@@ -1957,6 +2121,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.181 96.534 883.472
   angles 1.251 -96.041 1.551
   scale 1.25
@@ -1967,6 +2132,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.468 96.612 880.612
   angles 1.236 -95.493 1.563
   scale 1.25
@@ -1977,6 +2143,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.802 96.688 877.821
   angles 1.296 -97.716 1.513
   scale 1.25
@@ -1987,6 +2154,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 847.059 96.763 875.056
   angles 1.138 -91.99 1.635
   scale 1.25
@@ -1997,6 +2165,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 847.084 96.845 872.236
   angles 1.043 -88.725 1.697
   scale 1.25
@@ -2007,6 +2176,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.942 97.021 869.372
   angles 0.777 -85.143 5.774
   scale 1.25
@@ -2017,6 +2187,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.677 97.308 866.556
   angles 0.626 -83.652 5.792
   scale 1.25
@@ -2027,6 +2198,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.364 97.598 863.717
   angles 0.626 -83.652 5.792
   scale 1.25
@@ -2037,6 +2209,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.058 97.881 860.941
   angles 0.626 -83.652 5.792
   scale 1.25
@@ -2047,6 +2220,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.753 98.133 858.168
   angles 0.626 -83.652 4.246
   scale 1.25
@@ -2057,6 +2231,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.439 98.346 855.325
   angles 0.626 -83.652 4.246
   scale 1.25
@@ -2067,6 +2242,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.134 98.514 852.565
   angles 0.626 -83.652 2.257
   scale 1.25
@@ -2077,6 +2253,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 844.82 98.584 849.739
   angles 0.626 -83.652 0.683
   scale 1.25
@@ -2087,6 +2264,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 844.507 98.6 846.923
   angles 0.626 -83.652 0
   scale 1.25
@@ -2097,6 +2275,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 844.19 98.597 844.071
   angles 0.626 -83.652 0
   scale 1.25
@@ -2107,6 +2286,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.793 96.474 889.158
   angles 1.227 -89.658 -1.949
   scale 1.25
@@ -2117,6 +2297,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 917.702 100.932 835.036
   angles 0.123 106.048 -3.026
   scale 1.25
@@ -2127,6 +2308,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.405 100.781 837.792
   angles -0.076 102.29 -3.027
   scale 1.25
@@ -2137,6 +2319,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.932 100.631 840.588
   angles -0.261 98.784 -3.017
   scale 1.25
@@ -2147,6 +2330,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.304 100.483 843.365
   angles -0.394 96.264 -3.002
   scale 1.25
@@ -2157,6 +2341,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.529 100.338 846.13
   angles -0.567 92.945 -2.974
   scale 1.25
@@ -2167,6 +2352,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.608 100.191 848.956
   angles -0.715 90.069 -2.942
   scale 1.25
@@ -2177,6 +2363,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 851.018 98.27 842.323
   angles -0.298 -54.679 5.843
   scale 1.25
@@ -2187,6 +2374,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 852.699 97.983 844.583
   angles -0.554 -52.178 5.824
   scale 1.25
@@ -2197,6 +2385,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 854.534 97.775 846.727
   angles -0.816 -47.127 2.94
   scale 1.25
@@ -2207,6 +2396,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 856.547 97.713 848.718
   angles -0.813 -42.682 -0.063
   scale 1.25
@@ -2217,6 +2407,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 858.67 97.717 850.571
   angles -0.809 -39.849 -0.103
   scale 1.25
@@ -2227,6 +2418,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 860.891 97.723 852.358
   angles -0.806 -37.968 -0.13
   scale 1.25
@@ -2237,6 +2429,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 863.127 97.729 854.052
   angles -0.802 -36.465 -0.151
   scale 1.25
@@ -2247,6 +2440,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 865.425 97.726 855.75
   angles -0.802 -36.465 0
   scale 1.25
@@ -2257,6 +2451,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 867.747 97.726 857.466
   angles -0.802 -36.465 0
   scale 1.25
@@ -2267,6 +2462,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 870.016 97.726 859.143
   angles -0.802 -36.465 0
   scale 1.25
@@ -2277,6 +2473,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 872.328 97.726 860.852
   angles -0.802 -36.465 0
   scale 1.25
@@ -2287,6 +2484,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 874.617 97.726 862.544
   angles -0.802 -36.465 0
   scale 1.25
@@ -2297,6 +2495,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 876.847 97.726 864.192
   angles -0.802 -36.465 0
   scale 1.25
@@ -2307,6 +2506,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 879.09 97.726 865.849
   angles -0.802 -36.465 0
   scale 1.25
@@ -2317,6 +2517,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.553 100.048 851.742
   angles -0.838 87.665 -2.91
   scale 1.25
@@ -2327,6 +2528,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.411 99.909 854.469
   angles -0.895 86.548 -2.893
   scale 1.25
@@ -2337,6 +2539,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.235 99.764 857.339
   angles -0.895 86.548 -2.893
   scale 1.25
@@ -2347,6 +2550,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 881.407 97.726 867.561
   angles -0.802 -36.465 0
   scale 1.25
@@ -2357,6 +2561,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 883.639 97.725 869.302
   angles -0.801 -39.124 0.037
   scale 1.25
@@ -2367,6 +2572,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 845.937 96.562 891.884
   angles 1.384 -84.913 -1.841
   scale 1.25
@@ -2377,6 +2583,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.144 96.624 893.831
   angles 1.432 -83.398 -1.804
   scale 1.25
@@ -2387,6 +2594,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.443 96.691 895.991
   angles 1.494 -81.41 -1.753
   scale 1.25
@@ -2397,6 +2605,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 846.947 96.772 898.658
   angles 1.607 -77.606 -1.65
   scale 1.25
@@ -2407,6 +2616,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 849.045 96.806 909.038
   angles 0 102.717 0
   scale 1.25
@@ -2417,6 +2627,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 847.584 96.806 901.361
   angles 0 -77.283 0
   scale 1.25
@@ -2427,6 +2638,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 849.75 96.806 911.728
   angles 0 107.011 0
   scale 1.25
@@ -2437,6 +2649,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 850.606 96.806 914.343
   angles 0 109.445 0
   scale 1.25
@@ -2447,6 +2660,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 851.539 96.806 916.846
   angles 0 111.768 0
   scale 1.25
@@ -2457,6 +2671,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 853.728 96.806 921.824
   angles 0 115.497 0
   scale 1.25
@@ -2467,6 +2682,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 852.607 96.806 919.381
   angles 0 114.017 0
   scale 1.25
@@ -2477,6 +2693,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 854.73 96.806 923.88
   angles 0 116.519 0
   scale 1.25
@@ -2487,6 +2704,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 856.012 96.806 926.354
   angles 0 118.386 0
   scale 1.25
@@ -2497,6 +2715,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 857.372 96.806 928.837
   angles 0 119.256 0
   scale 1.25
@@ -2507,6 +2726,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 858.764 96.806 931.269
   angles 0 120.512 0
   scale 1.25
@@ -2517,6 +2737,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 860.174 96.806 933.568
   angles 0 122.624 0
   scale 1.25
@@ -2527,6 +2748,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 861.682 96.806 935.865
   angles 0 123.88 0
   scale 1.25
@@ -2537,6 +2759,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 863.282 96.806 938.248
   angles 0 123.88 0
   scale 1.25
@@ -2547,6 +2770,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 864.858 96.806 940.595
   angles 0 123.88 0
   scale 1.25
@@ -2557,6 +2781,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 866.47 96.806 942.996
   angles 0 123.88 0
   scale 1.25
@@ -2567,6 +2792,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 868.005 96.806 945.281
   angles 0 123.88 0
   scale 1.25
@@ -2577,6 +2803,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 874.086 96.806 954.863
   angles 0 123.88 0
   scale 1.25
@@ -2587,6 +2814,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 875.642 96.806 957.18
   angles 0 123.88 0
   scale 1.25
@@ -2597,6 +2825,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 877.203 96.806 959.504
   angles 0 123.88 0
   scale 1.25
@@ -2607,6 +2836,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 878.799 96.806 961.88
   angles 0 123.88 0
   scale 1.25
@@ -2617,6 +2847,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 880.341 96.806 964.087
   angles 0 126.149 0
   scale 1.25
@@ -2627,6 +2858,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 882.017 96.806 966.292
   angles 0 128.38 0
   scale 1.25
@@ -2637,6 +2869,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 883.807 96.806 968.472
   angles 0 130.794 0
   scale 1.25
@@ -2647,6 +2880,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 885.652 96.806 970.523
   angles 0 133.378 0
   scale 1.25
@@ -2657,6 +2891,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 887.517 96.806 972.461
   angles 0 134.583 0
   scale 1.25
@@ -2667,6 +2902,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 889.548 96.806 974.415
   angles 0 137.961 0
   scale 1.25
@@ -2677,6 +2913,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 891.663 96.806 976.223
   angles 0 141.262 0
   scale 1.25
@@ -2687,6 +2924,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 893.841 96.806 977.889
   angles 0 144.07 0
   scale 1.25
@@ -2697,6 +2935,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 873.729 96.756 949.275
   angles 0 -148.793 0
   scale 1.25
@@ -2707,6 +2946,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 919.058 99.617 860.24
   angles -0.895 86.548 -2.893
   scale 1.25
@@ -2717,6 +2957,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.889 99.477 863.011
   angles -0.895 86.548 -2.893
   scale 1.25
@@ -2727,6 +2968,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.725 99.309 865.693
   angles -0.895 86.548 -4.39
   scale 1.25
@@ -2737,6 +2979,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.558 99.1 868.406
   angles -0.895 86.548 -4.39
   scale 1.25
@@ -2747,6 +2990,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.39 98.89 871.138
   angles -0.895 86.548 -4.39
   scale 1.25
@@ -2757,6 +3001,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.22 98.677 873.909
   angles -0.895 86.548 -4.39
   scale 1.25
@@ -2767,6 +3012,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 876.162 96.756 947.737
   angles 0 -146.072 0
   scale 1.25
@@ -2777,6 +3023,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 878.527 96.756 946.128
   angles 0 -145.183 0
   scale 1.25
@@ -2787,6 +3034,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 880.774 96.756 944.525
   angles 0 -143.949 0
   scale 1.25
@@ -2797,6 +3045,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 883.042 96.756 942.793
   angles 0 -141.259 0
   scale 1.25
@@ -2807,6 +3056,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 885.234 96.756 940.967
   angles 0 -138.785 0
   scale 1.25
@@ -2817,6 +3067,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 887.344 96.756 939.024
   angles 0 -135.891 0
   scale 1.25
@@ -2827,6 +3078,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 889.26 96.756 937.122
   angles 0 -134.395 0
   scale 1.25
@@ -2837,6 +3089,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 891.17 96.756 935.054
   angles 0 -130.502 0
   scale 1.25
@@ -2847,6 +3100,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 892.932 96.756 932.939
   angles 0 -128.83 0
   scale 1.25
@@ -2857,6 +3111,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 894.686 96.756 930.675
   angles 0 -126.331 0
   scale 1.25
@@ -2867,6 +3122,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 896.28 96.756 928.414
   angles 0 -123.84 0
   scale 1.25
@@ -2877,6 +3133,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 897.785 96.756 926.066
   angles 0 -121.216 0
   scale 1.25
@@ -2887,6 +3144,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 899.277 96.756 923.605
   angles 0 -121.216 0
   scale 1.25
@@ -2897,6 +3155,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 900.77 96.756 921.141
   angles 0 -121.216 0
   scale 1.25
@@ -2907,6 +3166,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 902.241 96.756 918.713
   angles 0 -121.216 0
   scale 1.25
@@ -2917,6 +3177,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 903.734 96.756 916.249
   angles 0 -121.216 0
   scale 1.25
@@ -2927,6 +3188,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 905.127 96.756 913.951
   angles 0 -121.216 0
   scale 1.25
@@ -2937,6 +3199,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 906.423 96.756 911.813
   angles 0 -121.216 0
   scale 1.25
@@ -2947,6 +3210,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 912.941 96.742 909.173
   angles 0 -1.216 0
   scale 1.25
@@ -2957,6 +3221,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 929.586 96.123 909.909
   angles 0 174.24 0
   scale 1.25
@@ -2967,6 +3232,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 926.751 96.18 909.686
   angles 0 176.316 -2.047
   scale 1.25
@@ -2977,6 +3243,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 923.881 96.334 909.501
   angles 0 176.316 -4.038
   scale 1.25
@@ -2987,6 +3254,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 921.243 96.572 909.38
   angles 0.137 178.263 -6.036
   scale 1.25
@@ -2997,6 +3265,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 918.536 96.728 909.299
   angles 0.137 178.263 -1
   scale 1.25
@@ -3007,6 +3276,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 915.849 96.742 909.235
   angles 0 -1.216 0
   scale 1.25
@@ -3017,6 +3287,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 917.946 98.465 876.693
   angles -1.229 82.158 -4.308
   scale 1.25
@@ -3027,6 +3298,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 917.517 98.259 879.403
   angles -1.382 80.118 -4.262
   scale 1.25
@@ -3037,6 +3309,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 917.021 98.046 882.223
   angles -1.382 80.118 -4.262
   scale 1.25
@@ -3047,6 +3320,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 916.443 97.839 884.967
   angles -1.677 76.1 -4.154
   scale 1.25
@@ -3057,6 +3331,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 915.733 97.647 887.54
   angles -1.901 72.986 -4.057
   scale 1.25
@@ -3067,6 +3342,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 914.888 97.451 890.182
   angles -2 71.581 -4.009
   scale 1.25
@@ -3077,6 +3353,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 913.989 97.268 892.661
   angles -2.195 68.765 -3.906
   scale 1.25
@@ -3087,6 +3364,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 912.961 97.075 895.286
   angles -2.195 68.765 -3.906
   scale 1.25
@@ -3097,6 +3375,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 911.909 96.878 897.973
   angles -2.195 68.765 -3.906
   scale 1.25
@@ -3107,6 +3386,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 910.875 96.727 900.617
   angles -2.195 68.765 -2
   scale 1.25
@@ -3117,6 +3397,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 909.839 96.68 903.278
   angles -2.195 68.765 0
   scale 1.25
@@ -3127,6 +3408,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 885.778 97.722 871.148
   angles -0.798 -42.373 0.083
   scale 1.25
@@ -3137,6 +3419,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 887.805 97.716 873.117
   angles -0.792 -45.607 0.127
   scale 1.25
@@ -3147,6 +3430,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 889.661 97.708 875.211
   angles -0.777 -50.874 0.199
   scale 1.25
@@ -3157,6 +3441,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 891.414 97.698 877.43
   angles -0.771 -52.393 0.22
   scale 1.25
@@ -3167,6 +3452,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 893.039 97.686 879.668
   angles -0.759 -55.252 0.258
   scale 1.25
@@ -3177,6 +3463,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 894.577 97.673 882.008
   angles -0.746 -57.937 0.294
   scale 1.25
@@ -3187,6 +3474,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 896.035 97.659 884.423
   angles -0.738 -59.573 0.315
   scale 1.25
@@ -3197,6 +3485,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 897.379 97.644 886.811
   angles -0.726 -61.586 0.34
   scale 1.25
@@ -3207,6 +3496,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 898.71 97.605 889.336
   angles -0.719 -62.75 1
   scale 1.25
@@ -3217,6 +3507,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 899.982 97.555 891.89
   angles -0.696 -64.058 1.016
   scale 1.25
@@ -3227,6 +3518,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 901.152 97.482 894.294
   angles -0.696 -64.058 2
   scale 1.25
@@ -3237,6 +3529,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 902.334 97.388 896.722
   angles -0.696 -64.058 2
   scale 1.25
@@ -3247,6 +3540,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 903.585 97.266 899.289
   angles -0.696 -64.058 3
   scale 1.25
@@ -3257,6 +3551,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 905.64 97.02 903.508
   angles -0.696 -64.058 3
   scale 1.25
@@ -3267,6 +3562,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 904.795 97.121 901.773
   angles -0.696 -64.058 3
   scale 1.25
@@ -3278,6 +3574,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     EnableDamage 0
    }
   }
+  Flags 0x40 0
   coords 808.521 99.352 674.831
   angles 0 163.488 0
   scale 1.25
@@ -3288,6 +3585,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 869.333 96.805 947.268
   angles 0 -56.236 0
   scale 1.25
@@ -3298,6 +3596,7 @@ $grp GenericEntity : "{5E249786B7A6896D}Prefabs/Props/Construction/ConcretePipe/
     Enabled 0
    }
   }
+  Flags 0x40 0
   coords 873.454 96.805 953.909
   angles 0 123.764 0
   scale 1.25
@@ -3437,6 +3736,7 @@ SCR_DestructibleBuildingEntity : "{728F2D7CD93D3D1D}Prefabs/Structures/Infrastru
    Enabled 0
   }
  }
+ Flags 0x40 0
  coords 909.992 97.788 813.506
  angles 0 35.48 0
 }
@@ -3492,6 +3792,7 @@ SCR_DestructibleBuildingEntity : "{8DF7F603987CC4A7}Prefabs/Structures/Infrastru
    Enabled 0
   }
  }
+ Flags 0x40 0
  coords 866.766 99.814 779.105
  angles 0 126.889 0
 }
@@ -3518,6 +3819,7 @@ $grp SCR_DestructibleBuildingEntity : "{9420FAE928E31023}Prefabs/Structures/Infr
  }
 }
 GenericEntity : "{9550D57B2F6BBBD8}Prefabs/Structures/BuildingParts/Windows/Win_GlassBlock/Win_GlassBlock_01_268x50_base.et" {
+ Flags 0x440 0
  coords 816.505 101.131 679.395
  angles 0 -16.643 0
 }
@@ -4255,6 +4557,7 @@ SCR_DestructibleBuildingEntity : "{A42182DF49D50A3B}Prefabs/Structures/Industria
    Enabled 0
   }
  }
+ Flags 0x40 0
  coords 877.171 -5.142 768.264
  angles 0 -52.946 0
 }
@@ -4419,11 +4722,13 @@ GenericEntity : "{B5AB9CF0FD5BB378}Prefabs/Structures/BuildingParts/Windows/Win_
 }
 $grp StaticModelEntity : "{BB64FBA6986C62F7}Prefabs/Structures/BuildingParts/Entry/ConcreteSlope_02_MediumVehicle.et" {
  {
+  Flags 0x40 0
   coords 932.243 98.554 911.236
   angles 0.857 90.305 180
   scale 0.6
  }
  {
+  Flags 0x40 0
   coords 932.229 98.555 908.698
   angles 0.857 90.305 180
   scale 0.6
@@ -4431,71 +4736,88 @@ $grp StaticModelEntity : "{BB64FBA6986C62F7}Prefabs/Structures/BuildingParts/Ent
 }
 $grp GenericEntity : "{BCCE1BF4AD886040}Prefabs/Structures/BuildingsParts/Entry/Stairs_Military.et" {
  {
+  Flags 0x440 0
   coords 861.778 100.334 772.667
   angles 0 126.663 0
  }
  {
+  Flags 0x440 0
   coords 854.206 99.629 784.216
   angles 0 -142.284 0.343
  }
  {
+  Flags 0x440 0
   coords 834.764 98.063 817.561
   angles -0.341 -57.571 0.032
  }
  {
+  Flags 0x440 0
   coords 829.214 97.387 812.597
   angles 0.174 68.175 -0.295
  }
  {
+  Flags 0x440 0
   coords 826.981 97.604 816.53
   angles 0.306 154.353 0.154
  }
  {
+  Flags 0x440 0
   coords 854.206 99.629 784.216
   angles 0 -142.284 0.343
  }
  {
+  Flags 0x440 0
   coords 854.206 99.629 784.216
   angles 0 -142.284 0.343
  }
  {
+  Flags 0x440 0
   coords 854.206 99.629 784.216
   angles 0 -142.284 0.343
  }
  {
+  Flags 0x440 0
   coords 881.731 100.054 775.784
   angles -0.343 -52.701 0.002
  }
  {
+  Flags 0x440 0
   coords 848.832 98.429 838.831
   angles -0.341 -57.807 0.032
  }
  {
+  Flags 0x440 0
   coords 844.041 98.403 842.494
   angles -0.29 -84.412 0.182
  }
  {
+  Flags 0x440 0
   coords 842.588 98.043 829.045
   angles 0.342 124.787 -0.017
  }
  {
+  Flags 0x440 0
   coords 854.004 96.967 903.363
   angles -0.208 -0.531 -0.272
   scale 1.3
  }
  {
+  Flags 0x440 0
   coords 907.261 96.56 910.375
   angles 0 -120.426 0
  }
  {
+  Flags 0x440 0
   coords 910.917 96.547 909.073
   angles 0 -1.241 0
  }
  {
+  Flags 0x440 0
   coords 909.246 96.489 905.189
   angles 0 71.902 0
  }
  {
+  Flags 0x440 0
   coords 906.466 96.678 905.114
   angles 0 116.902 0
  }
@@ -4541,685 +4863,701 @@ $grp SCR_DestructibleEntity : "{D34F3DD5D61E2F71}Prefabs/Structures/Walls/Metal/
 }
 $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_V1_4m.et" {
  {
-  Flags 0 0x80000
-  coords 769.359 102.517 714.42
+  Flags 0x440 0
+  coords 769.359 -0.487 714.42
   angles 89.5 -69.609 -69.61
  }
  {
+  Flags 0x440 0
   coords 767.821 -1.891 718.893
   angles 0 -89.073 0.511
  }
  {
-  Flags 0 0x80000
-  coords 769.359 102.433 719.566
+  Flags 0x440 0
+  coords 769.359 -0.482 719.566
   angles 88.246 -26.719 153.292
  }
  {
-  Flags 0 0x80000
-  coords 771.284 102.51 716.944
+  Flags 0x440 0
+  coords 771.284 -0.357 716.944
   angles 89.363 -46.548 43.45
  }
  {
-  Flags 0 0x80000
-  coords 769.272 99.249 714.957
+  Flags 0x440 0
+  coords 769.272 -3.68 714.957
   angles 89.951 116.034 -155.578
  }
  {
-  Flags 0 0x80000
-  coords 769.383 99.252 718.916
+  Flags 0x440 0
+  coords 769.383 -3.564 718.916
   angles 89.951 116.034 -155.578
  }
  {
+  Flags 0x440 0
   coords 767.756 -1.973 714.984
   angles 0 -89.073 0.511
  }
  {
+  Flags 0x440 0
   coords 770.894 -1.997 714.983
   angles 0 -89.681 0.511
  }
  {
+  Flags 0x440 0
   coords 770.917 -2.119 718.89
   angles 0 -89.681 0.511
  }
  {
+  Flags 0x440 0
   coords 820.154 -4.235 678.147
   angles 0.493 73.833 179.864
  }
  {
-  Flags 0 0x80000
-  coords 818.244 102.724 710.055
+  Flags 0x440 0
+  coords 818.244 -1.834 710.055
   angles 0.393 129.572 0.326
  }
  {
+  Flags 0x440 0
   coords 789.017 -4.373 678.262
   angles 0.504 170.904 -0.084
  }
  {
+  Flags 0x440 0
   coords 790.818 -4.073 678.492
   angles -0.509 -4.503 -179.957
  }
  {
+  Flags 0x440 0
   coords 787.205 -5.879 674.778
   angles -0.489 17.222 179.852
  }
  {
+  Flags 0x440 0
   coords 790.978 -5.431 673.608
   angles 0.489 -162.778 -179.852
  }
  {
+  Flags 0x440 0
   coords 794.648 -4.942 672.471
   angles -0.489 17.222 -0.148
  }
  {
-  Flags 0 0x80000
-  coords 817.437 102.899 675.846
+  Flags 0x440 0
+  coords 817.437 -1.861 675.846
   angles 3.412 163.297 0.129
  }
  {
-  Flags 0 0x80000
-  coords 815.785 103.615 676.713
+  Flags 0x440 0
+  coords 815.785 -1.115 676.713
   angles -0.109 -107.502 1.429
   scale 0.6
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 817.446 103.591 677.236
   angles -0.097 -108 1.43
   scale 0.6
  }
  {
-  Flags 0 0x80000
-  coords 818.607 104.555 677.638
+  Flags 0x440 0
+  coords 818.607 -0.145 677.638
   angles -88.567 158.14 93.861
   scale 0.6
  }
  {
-  Flags 0 0x80000
-  coords 816.021 104.509 678.441
+  Flags 0x440 0
+  coords 816.021 -0.161 678.441
   angles -88.567 158.14 93.861
   scale 0.6
  }
  {
-  Flags 0 0x80000
-  coords 816.23 103.561 678.024
+  Flags 0x440 0
+  coords 816.23 -1.096 678.024
   angles 1.43 162.002 0.097
   scale 0.6
  }
  {
-  Flags 0 0x80000
-  coords 811.307 101.222 698.935
+  Flags 0x440 0
+  coords 811.307 -3.374 698.935
   angles -89.677 142.434 -14.35
  }
  {
-  Flags 0 0x80000
-  coords 813.744 99.177 680.075
+  Flags 0x440 0
+  coords 813.744 -5.47 680.075
   angles -89.271 -165.105 149.528
  }
  {
-  Flags 0 0x80000
-  coords 817.386 99.153 681.09
+  Flags 0x440 0
+  coords 817.386 -5.623 681.09
   angles -89.271 -165.105 149.528
  }
  {
-  Flags 0 0x80000
-  coords 812.113 100.604 679.503
+  Flags 0x440 0
+  coords 812.113 -4.006 679.503
   angles 0.369 -105.575 -178.665
  }
  {
-  Flags 0 0x80000
-  coords 815.971 98.982 679.115
+  Flags 0x440 0
+  coords 815.971 -5.708 679.115
   angles 1.326 162.486 179.986
  }
  {
-  Flags 0 0x80000
-  coords 816.506 102.741 679.444
+  Flags 0x440 0
+  coords 816.506 -1.96 679.444
   angles 1.326 163.095 -180
   scale 0.7
  }
  {
-  Flags 0 0x80000
-  coords 818.009 100.354 679.74
+  Flags 0x440 0
+  coords 818.009 -4.439 679.74
   angles 0.371 -105.648 -178.666
   scale 0.6
  }
  {
-  Flags 0 0x80000
-  coords 818.008 102.518 679.793
+  Flags 0x440 0
+  coords 818.008 -2.279 679.793
   angles 0.371 -105.648 1.334
   scale 0.6
  }
  {
+  Flags 0x440 0
   coords 819.193 -4.243 681.46
   angles 0.493 73.833 179.864
  }
  {
-  Flags 0 0x80000
-  coords 816.446 99.114 684.461
+  Flags 0x440 0
+  coords 816.446 -5.611 684.461
   angles -89.271 -165.105 -30.472
  }
  {
-  Flags 0 0x80000
-  coords 812.804 99.138 683.446
+  Flags 0x440 0
+  coords 812.804 -5.462 683.446
   angles -89.271 -165.107 -120.471
  }
  {
-  Flags 0 0x80000
-  coords 811.08 100.514 683.207
+  Flags 0x440 0
+  coords 811.08 -4.049 683.207
   angles 0.369 -105.575 1.335
  }
  {
-  Flags 0 0x80000
-  coords 817.386 102.244 681.165
+  Flags 0x440 0
+  coords 817.386 -2.531 681.165
   angles -88.615 179.889 164.531
  }
  {
-  Flags 0 0x80000
-  coords 813.744 102.268 680.15
+  Flags 0x440 0
+  coords 813.744 -2.378 680.15
   angles -88.615 179.889 164.531
  }
  {
-  Flags 0 0x80000
-  coords 812.804 102.186 683.52
+  Flags 0x440 0
+  coords 812.804 -2.414 683.52
   angles -88.615 179.889 -105.469
  }
  {
-  Flags 0 0x80000
-  coords 816.446 102.162 684.535
+  Flags 0x440 0
+  coords 816.446 -2.562 684.535
   angles -88.615 179.889 -15.469
  }
  {
+  Flags 0x440 0
   coords 818.358 -4.25 684.341
   angles 0.493 73.833 179.864
  }
  {
-  Flags 0 0x80000
-  coords 812.908 100.095 684.832
+  Flags 0x440 0
+  coords 812.908 -4.471 684.832
   angles 0 163.286 -179.996
   scale 1.1
  }
  {
-  Flags 0 0x80000
-  coords 817.127 99.507 682.796
+  Flags 0x440 0
+  coords 817.127 -5.247 682.796
   angles 0.346 -104.563 -178.659
   scale 0.5
  }
  {
-  Flags 0 0x80000
-  coords 816.005 99.487 683.582
+  Flags 0x440 0
+  coords 816.005 -5.232 683.582
   angles -1.341 -14.571 -179.654
   scale 0.5
  }
  {
-  Flags 0 0x80000
-  coords 814.069 100.27 683.098
+  Flags 0x440 0
+  coords 814.069 -4.388 683.098
   angles -1.341 -14.571 -179.654
   scale 0.5
  }
  {
-  Flags 0 0x80000
-  coords 812.282 101.217 698.17
+  Flags 0x440 0
+  coords 812.282 -3.511 698.17
   angles -89.679 142.434 165.65
  }
  {
+  Flags 0x440 0
   coords 810.467 -1.943 699.782
   angles 0.312 128.085 -0.08
  }
  {
-  Flags 0 0x80000
-  coords 814.069 102.068 683.141
+  Flags 0x440 0
+  coords 814.069 -2.59 683.141
   angles -1.341 -14.571 -179.654
   scale 0.5
  }
  {
-  Flags 0 0x80000
-  coords 775.997 100.175 762.011
+  Flags 0x440 0
+  coords 775.997 -1.826 762.011
   angles 0.455 117.07 0.233
  }
  {
+  Flags 0x440 0
   coords 849.963 -1.875 757.975
   angles 0.462 115.094 0.218
  }
  {
+  Flags 0x440 0
   coords 808.224 -1.898 798.305
   angles 0.393 129.553 0.326
  }
  {
-  Flags 0 0x80000
-  coords 864.022 101.273 770.593
+  Flags 0x440 0
+  coords 864.022 -3.16 770.593
   angles 0.783 -143.048 0
  }
  {
-  Flags 0 0x80000
-  coords 859.19 101.273 774.187
+  Flags 0x440 0
+  coords 859.19 -2.63 774.187
   angles 0.801 -144.039 180
  }
  {
-  Flags 0 0x80000
-  coords 856.137 101.273 776.402
+  Flags 0x440 0
+  coords 856.137 -2.402 776.402
   angles 0.801 -144.039 0
  }
  {
-  Flags 0 0x80000
-  coords 853.004 101.273 778.675
+  Flags 0x440 0
+  coords 853.004 -2.138 778.675
   angles 0.801 -144.039 -180
  }
  {
-  Flags 0 0x80000
-  coords 851.728 101.273 779.6
+  Flags 0x440 0
+  coords 851.728 -2.016 779.6
   angles 0.801 -144.039 -180
  }
  {
-  Flags 0 0x80000
-  coords 867.047 101.273 768.31
+  Flags 0x440 0
+  coords 867.047 -3.411 768.31
   angles 0.783 -143.048 0
  }
  {
-  Flags 0 0x80000
-  coords 870.021 101.273 766.073
+  Flags 0x440 0
+  coords 870.021 -3.538 766.073
   angles -0.782 36.953 -180
  }
  {
-  Flags 0 0x80000
-  coords 871.132 101.273 765.238
+  Flags 0x440 0
+  coords 871.132 -3.569 765.238
   angles 0.782 -143.544 -0.007
  }
  {
-  Flags 0 0x80000
-  coords 851.63 101.273 782.346
+  Flags 0x440 0
+  coords 851.63 -1.881 782.346
   angles 0.007 126.501 180
  }
  {
-  Flags 0 0x80000
-  coords 855.436 101.273 787.401
+  Flags 0x440 0
+  coords 855.436 -1.969 787.401
   angles 0.007 127.013 -180
  }
  {
-  Flags 0 0x80000
-  coords 857.769 101.273 790.496
+  Flags 0x440 0
+  coords 857.769 -1.978 790.496
   angles 0.007 127.013 0
  }
  {
-  Flags 0 0x80000
-  coords 858.778 101.273 791.835
+  Flags 0x440 0
+  coords 858.778 -1.932 791.835
   angles -0.007 -52.987 0
  }
  {
-  Flags 0 0x80000
-  coords 827.379 99.036 813.321
+  Flags 0x440 0
+  coords 827.379 -2.807 813.321
   angles 0.004 72.278 -0.006
  }
  {
-  Flags 0 0x80000
-  coords 832.371 99.036 813.088
+  Flags 0x440 0
+  coords 832.371 -2.834 813.088
   angles 0.006 152.657 0.003
  }
  {
-  Flags 0 0x80000
-  coords 837.748 98.531 816.204
+  Flags 0x440 0
+  coords 837.748 -3.324 816.204
   angles -1.716 -136.399 -179.993
  }
  {
-  Flags 0 0x80000
-  coords 835.41 99.038 815.595
+  Flags 0x440 0
+  coords 835.41 -2.853 815.595
   angles -1.704 -50.392 -179.882
  }
  {
-  Flags 0 0x80000
-  coords 827.402 99.036 818.431
+  Flags 0x440 0
+  coords 827.402 -2.707 818.431
   angles -0.006 -28.273 179.997
  }
  {
-  Flags 0 0x80000
-  coords 830.993 99.036 819.626
+  Flags 0x440 0
+  coords 830.993 -2.7 819.626
   angles 0.004 172.123 -179.995
  }
  {
-  Flags 0 0x80000
-  coords 832.438 99.036 819.935
+  Flags 0x440 0
+  coords 832.438 -2.705 819.935
   angles 0 30.743 179.993
  }
  {
-  Flags 0 0x80000
-  coords 861.579 101.273 791.942
+  Flags 0x440 0
+  coords 861.579 -2.075 791.942
   angles 0 -142.987 0.007
  }
  {
-  Flags 0 0x80000
-  coords 864.773 101.273 789.534
+  Flags 0x440 0
+  coords 864.773 -2.544 789.534
   angles 0 37.013 -0.007
  }
  {
-  Flags 0 0x80000
-  coords 867.967 101.273 787.126
+  Flags 0x440 0
+  coords 867.967 -2.616 787.126
   angles 0 -142.987 -179.993
  }
  {
-  Flags 0 0x80000
-  coords 871.161 101.273 784.718
+  Flags 0x440 0
+  coords 871.161 -2.671 784.718
   angles 0 37.013 179.993
  }
  {
-  Flags 0 0x80000
-  coords 874.289 101.273 782.386
+  Flags 0x440 0
+  coords 874.289 -2.997 782.386
   angles 0 36.714 -0.007
  }
  {
-  Flags 0 0x80000
-  coords 877.495 101.273 779.995
+  Flags 0x440 0
+  coords 877.495 -3.702 779.995
   angles 0 -143.286 0.007
  }
  {
-  Flags 0 0x80000
-  coords 879.787 101.273 778.286
+  Flags 0x440 0
+  coords 879.787 -3.708 778.286
   angles 0 -143.286 -179.993
  }
  {
-  Flags 0 0x80000
-  coords 873.871 101.263 765.986
+  Flags 0x440 0
+  coords 873.871 -3.61 765.986
   angles 0.006 -53.46 0
  }
  {
-  Flags 0 0x80000
-  coords 878.432 101.216 772.037
+  Flags 0x440 0
+  coords 878.432 -3.753 772.037
   angles -0.009 -52.358 0
  }
  {
-  Flags 0 0x80000
-  coords 882.687 99.567 774.089
+  Flags 0x440 0
+  coords 882.687 -5.427 774.089
   angles -90 125.876 -89.161
  }
  {
-  Flags 0 0x80000
-  coords 881.204 101.216 772.763
+  Flags 0x440 0
+  coords 881.204 -3.753 772.763
   angles 0 36.648 -0.009
  }
  {
-  Flags 0 0x80000
-  coords 884.009 101.216 772.939
+  Flags 0x440 0
+  coords 884.009 -3.799 772.939
   angles -0.009 -53.352 -180
  }
  {
-  Flags 0 0x80000
-  coords 884.63 101.274 774.674
+  Flags 0x440 0
+  coords 884.63 -3.799 774.674
   angles 0 -143.286 -180
  }
  {
-  Flags 0 0x80000
-  coords 876.567 98.331 768.649
+  Flags 0x440 0
+  coords 876.567 -6.584 768.649
   angles -0.009 -52.358 0
  }
  {
-  Flags 0 0x80000
-  coords 878.848 101.216 769.578
+  Flags 0x440 0
+  coords 878.848 -3.735 769.578
   angles 0 37.642 -0.009
  }
  {
-  Flags 0 0x80000
-  coords 878.212 101.28 767.38
+  Flags 0x440 0
+  coords 878.212 -3.667 767.38
   angles -0.009 -52.759 0
  }
  {
-  Flags 0 0x80000
-  coords 876.365 101.216 766.358
+  Flags 0x440 0
+  coords 876.365 -3.722 766.358
   angles 0 37.183 -0.009
  }
  {
-  Flags 0 0x80000
-  coords 901.28 98.798 807.174
+  Flags 0x440 0
+  coords 901.28 -5.462 807.174
   angles 0 36.356 -0.009
  }
  {
-  Flags 0 0x80000
-  coords 898.139 98.797 809.486
+  Flags 0x440 0
+  coords 898.139 -5.457 809.486
   angles 0 36.356 179.991
  }
  {
-  Flags 0 0x80000
-  coords 909.842 98.799 800.873
+  Flags 0x440 0
+  coords 909.842 -5.905 800.873
   angles 0 -143.644 -179.991
  }
  {
-  Flags 0 0x80000
-  coords 906.701 98.799 803.184
+  Flags 0x440 0
+  coords 906.701 -5.697 803.184
   angles 0 -143.644 0.009
  }
  {
-  Flags 0 0x80000
-  coords 912.259 98.799 801.824
+  Flags 0x440 0
+  coords 912.259 -5.969 801.824
   angles -0.009 -54.545 0
  }
  {
-  Flags 0 0x80000
-  coords 914.432 98.799 804.876
+  Flags 0x440 0
+  coords 914.432 -6.035 804.876
   angles -0.009 -54.544 -180
  }
  {
-  Flags 0 0x80000
-  coords 916.692 98.799 808.049
+  Flags 0x440 0
+  coords 916.692 -5.979 808.049
   angles 0.009 125.455 0
  }
  {
-  Flags 0 0x80000
-  coords 918.943 98.799 811.211
+  Flags 0x440 0
+  coords 918.943 -5.878 811.211
   angles -0.009 -54.544 -180
  }
  {
-  Flags 0 0x80000
-  coords 921.264 98.799 814.469
+  Flags 0x440 0
+  coords 921.264 -5.831 814.469
   angles -0.009 -54.544 0
  }
  {
-  Flags 0 0x80000
-  coords 923.584 98.799 817.727
+  Flags 0x440 0
+  coords 923.584 -5.824 817.727
   angles 0.009 125.455 0
  }
  {
-  Flags 0 0x80000
-  coords 909.558 98.796 827.785
+  Flags 0x440 0
+  coords 909.558 -5.614 827.785
   angles -0.009 -54.545 -180
  }
  {
-  Flags 0 0x80000
-  coords 907.385 98.796 824.733
+  Flags 0x440 0
+  coords 907.385 -5.624 824.733
   angles 0.009 125.455 180
  }
  {
-  Flags 0 0x80000
-  coords 905.125 98.796 821.56
+  Flags 0x440 0
+  coords 905.125 -5.586 821.56
   angles -0.009 -54.545 0
  }
  {
-  Flags 0 0x80000
-  coords 902.874 98.796 818.398
+  Flags 0x440 0
+  coords 902.874 -5.47 818.398
   angles 0.009 125.455 0
  }
  {
-  Flags 0 0x80000
-  coords 900.611 98.796 815.223
+  Flags 0x440 0
+  coords 900.611 -5.353 815.223
   angles -0.009 -54.544 -180
  }
  {
-  Flags 0 0x80000
-  coords 898.318 98.796 812.002
+  Flags 0x440 0
+  coords 898.318 -5.444 812.002
   angles -0.009 -54.544 0
  }
  {
-  Flags 0 0x80000
-  coords 910.404 98.796 825.666
+  Flags 0x440 0
+  coords 910.404 -5.643 825.666
   angles 0 -144.408 -179.991
  }
  {
-  Flags 0 0x80000
-  coords 913.569 99.373 823.401
+  Flags 0x440 0
+  coords 913.569 -5.18 823.401
   angles 0 -144.408 0.009
  }
  {
-  Flags 0 0x80000
-  coords 919.982 98.797 818.811
+  Flags 0x440 0
+  coords 919.982 -5.753 818.811
   angles 0 -144.408 0.009
  }
  {
-  Flags 0 0x80000
-  coords 916.817 98.797 821.076
+  Flags 0x440 0
+  coords 916.817 -5.733 821.076
   angles 0 35.592 179.991
  }
  {
-  Flags 0 0x80000
-  coords 923.148 98.798 816.544
+  Flags 0x440 0
+  coords 923.148 -5.836 816.544
   angles 0 35.592 179.991
  }
  {
-  Flags 0 0x80000
-  coords 914.563 100.894 824.792
+  Flags 0x440 0
+  coords 914.563 -3.748 824.792
   angles 87.04 35.591 0
  }
  {
-  Flags 0 0x80000
-  coords 916.073 101.447 823.746
+  Flags 0x440 0
+  coords 916.073 -3.113 823.746
   angles 0 125.353 87.039
  }
  {
-  Flags 0 0x80000
-  coords 912.714 101.428 825.978
+  Flags 0x440 0
+  coords 912.714 -3.119 825.978
   angles -0.877 109.809 89.687
  }
  {
-  Flags 0 0x80000
-  coords 910.41 102.096 825.674
+  Flags 0x440 0
+  coords 910.41 -2.343 825.674
   angles 0 35.091 179.991
  }
  {
-  Flags 0 0x80000
-  coords 907.375 102.096 824.74
+  Flags 0x440 0
+  coords 907.375 -2.324 824.74
   angles -0.009 -55.038 -180
  }
  {
-  Flags 0 0x80000
-  coords 909.558 102.096 827.785
+  Flags 0x440 0
+  coords 909.558 -2.314 827.785
   angles 0.009 125.455 180
  }
  {
-  Flags 0 0x80000
-  coords 905.125 102.096 821.56
+  Flags 0x440 0
+  coords 905.125 -2.286 821.56
   angles 0.009 125.455 180
  }
  {
-  Flags 0 0x80000
-  coords 902.874 102.096 818.398
+  Flags 0x440 0
+  coords 902.874 -2.17 818.398
   angles -0.009 -54.544 0
  }
  {
-  Flags 0 0x80000
-  coords 901.28 102.098 807.174
+  Flags 0x440 0
+  coords 901.28 -2.162 807.174
   angles 0 36.356 179.991
  }
  {
-  Flags 0 0x80000
-  coords 898.139 102.097 809.486
+  Flags 0x440 0
+  coords 898.139 -2.157 809.486
   angles 0 -143.644 -179.991
  }
  {
-  Flags 0 0x80000
-  coords 898.306 102.096 812.011
+  Flags 0x440 0
+  coords 898.306 -2.144 812.011
   angles 0.009 125.26 0
  }
  {
-  Flags 0 0x80000
-  coords 900.604 102.096 815.212
+  Flags 0x440 0
+  coords 900.604 -2.054 815.212
   angles 0.009 125.456 0
  }
  {
-  Flags 0 0x80000
-  coords 906.701 102.099 803.184
+  Flags 0x440 0
+  coords 906.701 -2.397 803.184
   angles 0 36.356 179.991
  }
  {
-  Flags 0 0x80000
-  coords 909.842 102.099 800.873
+  Flags 0x440 0
+  coords 909.842 -2.605 800.873
   angles 0 -143.644 0.009
  }
  {
-  Flags 0 0x80000
-  coords 912.259 102.099 801.824
+  Flags 0x440 0
+  coords 912.259 -2.669 801.824
   angles 0.009 125.455 0
  }
  {
-  Flags 0 0x80000
-  coords 921.264 102.099 814.469
+  Flags 0x440 0
+  coords 921.264 -2.531 814.469
   angles 0.009 125.455 0
  }
  {
-  Flags 0 0x80000
-  coords 923.584 102.099 817.727
+  Flags 0x440 0
+  coords 923.584 -2.524 817.727
   angles -0.009 -54.544 -180
  }
  {
-  Flags 0 0x80000
-  coords 919.982 102.097 818.811
+  Flags 0x440 0
+  coords 919.982 -2.453 818.811
   angles 0 -144.408 -179.991
  }
  {
-  Flags 0 0x80000
-  coords 916.817 102.097 821.076
+  Flags 0x440 0
+  coords 916.817 -2.433 821.076
   angles 0 35.592 -0.009
  }
  {
-  Flags 0 0x80000
-  coords 918.943 102.099 811.211
+  Flags 0x440 0
+  coords 918.943 -2.578 811.211
   angles -0.009 -54.544 0
  }
  {
-  Flags 0 0x80000
-  coords 914.432 102.099 804.877
+  Flags 0x440 0
+  coords 914.432 -2.735 804.877
   angles 0.009 125.455 0
  }
  {
-  Flags 0 0x80000
-  coords 916.691 102.099 808.049
+  Flags 0x440 0
+  coords 916.691 -2.679 808.049
   angles -0.009 -54.545 -180
  }
  {
-  Flags 0 0x80000
-  coords 904.069 102.099 805.121
+  Flags 0x440 0
+  coords 904.069 -2.23 805.121
   angles 0 -143.644 0.009
  }
  {
-  Flags 0 0x80000
-  coords 912.916 101.47 825.926
+  Flags 0x440 0
+  coords 912.916 -3.098 825.926
   angles -0.482 101.978 -89.488
  }
  {
-  Flags 0 0x80000
-  coords 915.751 101.447 823.978
+  Flags 0x440 0
+  coords 915.751 -3.127 823.978
   angles 0.099 -56.566 92.959
  }
  {
-  Flags 0 0x80000
-  coords 922.765 102.098 816.819
+  Flags 0x440 0
+  coords 922.765 -2.526 816.819
   angles 0 35.592 179.991
  }
  {
+  Flags 0x440 0
   coords 914.01 -1.811 830.274
   angles 0.494 104.9 0.132
  }
  {
-  Flags 0 0x80000
-  coords 845.082 99.278 828.233
+  Flags 0x440 0
+  coords 845.082 -2.644 828.233
   angles -0.005 -16.216 -0.004
  }
  {
-  Flags 0 0x80000
-  coords 848.669 99.278 829.276
+  Flags 0x440 0
+  coords 848.669 -2.754 829.276
   angles 0.005 163.784 0.004
  }
  {
-  Flags 0 0x80000
-  coords 848.537 98.986 828.56
+  Flags 0x440 0
+  coords 848.537 -3.053 828.56
   angles 0.005 169.586 0.005
  }
  {
-  Flags 0 0x80000
-  coords 851.436 99.278 833.301
+  Flags 0x440 0
+  coords 851.436 -2.735 833.301
   angles 0.004 77.563 -0.006
  }
  {
@@ -5234,131 +5572,138 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
     CastShadow 0
    }
   }
-  Flags 0 0x80000
-  coords 851.199 99.524 830.874
+  Flags 0x440 0
+  coords 851.199 -2.531 830.874
   angles 0.003 -57.437 -1.05
  }
  {
-  Flags 0 0x80000
-  coords 850.704 99.278 836.621
+  Flags 0x440 0
+  coords 850.704 -2.691 836.621
   angles -0.004 -102.437 0.006
  }
  {
-  Flags 0 0x80000
-  coords 841.352 99.278 831.362
+  Flags 0x440 0
+  coords 841.352 -2.462 831.362
   angles -0.006 -84.032 0.004
  }
  {
-  Flags 0 0x80000
-  coords 841.764 99.278 835.306
+  Flags 0x440 0
+  coords 841.764 -2.485 835.306
   angles 0.006 95.968 -0.004
  }
  {
-  Flags 0 0x80000
-  coords 842.168 99.278 839.169
+  Flags 0x440 0
+  coords 842.168 -2.68 839.169
   angles -0.006 -84.032 0.004
  }
  {
-  Flags 0 0x80000
-  coords 842.554 99.278 842.862
+  Flags 0x440 0
+  coords 842.554 -2.663 842.862
   angles -0.006 -84.032 0.003
  }
  {
-  Flags 0 0x80000
-  coords 846.749 99.278 841.489
+  Flags 0x440 0
+  coords 846.749 -2.672 841.489
   angles 0.001 48.459 -0.007
  }
  {
-  Flags 0 0x80000
-  coords 851.94 96.703 906.588
+  Flags 0x440 0
+  coords 851.94 -4.029 906.588
   angles 90 124.874 24.422
  }
  {
-  Flags 0 0x80000
-  coords 851.223 96.703 902.693
+  Flags 0x440 0
+  coords 851.223 -4.087 902.693
   angles 89.972 124.874 24.422
  }
  {
+  Flags 0x440 0
   coords 847.114 -2.401 907.442
   angles 0 -80.233 0.511
  }
  {
-  Flags 0 0x80000
-  coords 847.936 96.703 903.292
+  Flags 0x440 0
+  coords 847.936 -4.027 903.292
   angles 89.956 124.874 -155.578
  }
  {
-  Flags 0 0x80000
-  coords 848.654 96.706 907.187
+  Flags 0x440 0
+  coords 848.654 -3.981 907.187
   angles 89.956 124.874 -155.578
  }
  {
-  Flags 0 0x80000
-  coords 847.94 99.971 902.749
+  Flags 0x440 0
+  coords 847.94 -0.767 902.749
   angles 90 -60.769 -69.61
  }
  {
+  Flags 0x440 0
   coords 846.439 -2.401 903.531
   angles 0 -80.233 0.511
  }
  {
+  Flags 0x440 0
   coords 851.038 -2.398 902.002
   angles -0.511 7.886 -179.983
  }
  {
+  Flags 0x440 0
   coords 854.85 -1.863 901.79
   angles -0.507 -0.823 179.711
  }
  {
-  Flags 0 0x80000
-  coords 855.175 96.703 906.037
+  Flags 0x440 0
+  coords 855.175 -4.065 906.037
   angles -90 23.541 76.911
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 854.456 96.701 902.143
   angles -89.98 -55.136 155.587
  }
  {
+  Flags 0x440 0
   coords 851.841 -2.417 907.305
   angles 0.511 -172.114 -0.017
  }
  {
+  Flags 0x440 0
   coords 853.765 -2.294 906.67
   angles -0.123 85.807 179.504
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 856.017 98.909 904.972
   angles 0 -0.701 -180
  }
  {
+  Flags 0x440 0
   coords 858.115 -3.252 901.796
   angles -0.502 -0.826 -179.906
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 858.224 96.702 905.552
   angles -90 30.923 61.618
  }
  {
-  Flags 0 0x80000
-  coords 858.047 96.7 901.596
+  Flags 0x440 0
+  coords 858.047 -4.119 901.596
   angles -90 -55.136 147.677
  }
  {
-  Flags 0 0x80000
-  coords 848.5 99.971 906.348
+  Flags 0x440 0
+  coords 848.5 -0.716 906.348
   angles 90 -60.769 -69.61
  }
  {
-  Flags 0 0x80000
-  coords 851.672 99.971 905.864
+  Flags 0x440 0
+  coords 851.672 -0.769 905.864
   angles -90 -74.395 -108.457
  }
  {
-  Flags 0 0x80000
-  coords 851.854 99.971 902.227
+  Flags 0x440 0
+  coords 851.854 -0.834 902.227
   angles -90 -74.395 -108.457
  }
  {
@@ -5373,212 +5718,230 @@ $grp SCR_DestructibleEntity : "{D50A0255E3EB8CCF}Prefabs/Structures/Walls/Concre
     CastShadow 0
    }
   }
-  Flags 0 0x80000
-  coords 860.447 98.187 903.482
+  Flags 0x440 0
+  coords 860.447 -2.571 903.482
   angles -0.608 -88.14 0.023
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 859.729 97.267 905.004
   angles 0.501 179.299 178.815
  }
  {
+  Flags 0x440 0
   coords 862.642 -1.885 901.902
   angles -0.502 -0.826 -179.485
  }
  {
+  Flags 0x440 0
   coords 858.733 -1.865 901.846
   angles -0.502 -0.826 -179.485
  }
  {
+  Flags 0x440 0
   coords 861.547 -1.896 903.172
   angles 0.515 -90.822 -179.498
  }
  {
-  Flags 0 0x80000
-  coords 861.955 100.286 904.041
+  Flags 0x440 0
+  coords 861.955 -0.433 904.041
   angles -89.654 -175.027 -96.016
   scale 1.2
  }
  {
-  Flags 0 0x80000
-  coords 857.996 100.322 907.866
+  Flags 0x440 0
+  coords 857.996 -0.428 907.866
   angles -89.165 -178.554 -92.489
   scale 1.5
  }
  {
-  Flags 0 0x80000
-  coords 851.886 100.447 903.425
+  Flags 0x440 0
+  coords 851.886 -0.321 903.425
   angles -88.904 141.581 -143.779
   scale 1.1
  }
  {
-  Flags 0 0x80000
-  coords 872.204 99.603 951.98
+  Flags 0x440 0
+  coords 872.204 -0.855 951.98
   angles 89.5 -39.722 -69.61
  }
  {
+  Flags 0x440 0
   coords 874.333 -2.321 952.424
   angles 0.03 -62.596 0.51
  }
  {
+  Flags 0x440 0
   coords 871.158 -2.248 947.306
   angles 0.08 129.854 -0.505
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 943.33 100.885 911.762
   angles 0.503 -179.45 179.911
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 939.437 100.85 911.831
   angles -0.505 1.612 -179.92
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 943.331 100.886 911.794
   angles -0.503 0.55 0.089
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 943.295 100.887 908.079
   angles -0.502 0.111 0.093
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 943.294 100.888 908.047
   angles 0.502 -179.889 179.907
  }
  {
+  Flags 0x440 0
   coords 932.213 -4.763 908.116
   angles -0.502 0.111 -179.907
  }
  {
+  Flags 0x440 0
   coords 935.517 -5.167 911.883
   angles -0.503 0.55 -179.911
  }
  {
+  Flags 0x440 0
   coords 932.017 -4.845 911.917
   angles 0.503 -179.45 179.911
  }
  {
+  Flags 0x440 0
   coords 929.039 -4.478 908.427
   angles -0.491 -5.096 -179.862
  }
  {
+  Flags 0x440 0
   coords 928.802 -4.494 911.35
   angles -0.497 -2.772 -179.882
  }
  {
+  Flags 0x440 0
   coords 935.448 -3.697 908.123
   angles 0.502 -179.889 -0.093
  }
  {
+  Flags 0x440 0
   coords 935.455 -3.663 911.915
   angles -0.503 1.069 0.085
  }
  {
+  Flags 0x440 0
   coords 928.072 -1.865 910.028
   angles -88.666 -111.562 112.117
  }
  {
-  Flags 0 0x80000
-  coords 911.486 98.48 906.151
+  Flags 0x440 0
+  coords 911.486 -3.051 906.151
   angles -0.009 -73.729 -179.997
  }
  {
-  Flags 0 0x80000
-  coords 907.286 98.06 901.138
+  Flags 0x440 0
+  coords 907.286 -3.469 901.138
   angles -0.008 -78.026 -179.997
   scale 1.5
  }
  {
-  Flags 0 0x80000
-  coords 910.046 98.505 911.308
+  Flags 0x440 0
+  coords 910.046 -2.769 911.308
   angles 0.003 -164.344 0.008
  }
  {
-  Flags 0 0x80000
-  coords 905.036 98.46 907.321
+  Flags 0x440 0
+  coords 905.036 -2.786 907.321
   angles 0.008 100.331 -0.004
  }
  {
-  Flags 0 0x80000
-  coords 905.224 98.46 908.349
+  Flags 0x440 0
+  coords 905.224 -2.778 908.349
   angles -0.008 -79.669 0.004
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 941.143 102.747 911.82
   angles -0.503 -0.324 0.089
   scale 1.6
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 941.131 100.884 911.752
   angles -0.503 -0.324 0.089
   scale 1.6
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 941.149 100.888 908.139
   angles 0.503 0.55 -0.089
   scale 1.6
  }
  {
-  Flags 0 0x80000
-  coords 870.408 99.614 948.855
+  Flags 0x440 0
+  coords 870.408 -0.848 948.855
   angles 89.5 -39.722 -69.61
  }
  {
-  Flags 0 0x80000
-  coords 870.356 96.702 948.944
+  Flags 0x440 0
+  coords 870.356 -3.765 948.944
   angles 89.956 145.921 -155.578
  }
  {
+  Flags 0x440 0
   coords 871.079 -2.44 953.112
   angles 0 -59.186 0.511
  }
  {
+  Flags 0x440 0
   coords 869.045 -2.439 949.704
   angles 0 -59.186 0.511
  }
  {
-  Flags 0 0x80000
-  coords 872.424 96.705 952.321
+  Flags 0x440 0
+  coords 872.424 -3.744 952.321
   angles 89.956 145.921 -155.578
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 941.146 102.767 908.123
   angles 0.503 0.55 -0.089
   scale 1.6
  }
  {
+  Flags 0x440 0
   coords 936.076 -1.902 908.138
   angles 0.502 -179.889 179.907
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 856.017 95.321 904.972
   angles 0 -0.701 -180
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 939.431 97.343 911.8
   angles -0.505 1.612 -179.92
  }
  {
-  Flags 0 0x80000
+  Flags 0x440 0
   coords 858.051 98.909 904.997
   angles 0 -0.701 -180
  }
  {
+  Flags 0x440 0
   coords 935.442 -7.239 908.092
   angles 0.502 -179.889 -0.093
  }
  {
+  Flags 0x440 0
   coords 936.07 -5.526 908.106
   angles 0.502 -179.889 179.907
  }
